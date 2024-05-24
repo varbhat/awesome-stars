@@ -150,7 +150,6 @@
 - [mklabs/ue-xelu-icons](https://github.com/mklabs/ue-xelu-icons) - Xelu's Controllers & Keyboard Prompts as an Unreal Plugin for programmatic use (cpp / bp)
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
-- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) - Embedded Linux embedding for Flutter
 - [zeux/niagara](https://github.com/zeux/niagara) - A Vulkan renderer written from scratch on stream
 - [kpet/clvk](https://github.com/kpet/clvk) - Implementation of OpenCL 3.0 on Vulkan
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
