@@ -52,7 +52,6 @@
 - [emulator](#emulator)
 - [english](#english)
 - [firefox](#firefox)
-- [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
 - [frameworks](#frameworks)
@@ -484,10 +483,6 @@
 - [IceDBorn/pipewire-screenaudio](https://github.com/IceDBorn/pipewire-screenaudio) - Extension to passthrough pipewire audio to WebRTC Screenshare
 - [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC in Rust
 
-## flutter 
-
-- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) - Embedded Linux embedding for Flutter
-
 ## font 
 
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
@@ -848,7 +843,6 @@
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [containers/composefs](https://github.com/containers/composefs) - a file system for mounting container images
-- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) - Embedded Linux embedding for Flutter
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
