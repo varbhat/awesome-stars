@@ -984,6 +984,8 @@
 
 ## others 
 
+- [pierrechevalier83/ferris](https://github.com/pierrechevalier83/ferris) - A low profile split keyboard designed to satisfy one single use case elegantly
+- [davidphilipbarr/Sweep](https://github.com/davidphilipbarr/Sweep) - Sweep - a small promicro based keyboard inspired by the Ferris.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [mcinglis/c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices.
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
