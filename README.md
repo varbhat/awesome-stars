@@ -465,6 +465,7 @@
 
 ## Python 
 
+- [JesusFreke/lalboard](https://github.com/JesusFreke/lalboard) - A 3D-printed keyboard inspired by the DataHand
 - [pierrechevalier83/ferris](https://github.com/pierrechevalier83/ferris) - A low profile split keyboard designed to satisfy one single use case elegantly
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
