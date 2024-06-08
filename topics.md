@@ -48,6 +48,7 @@
 - [dotnet](#dotnet)
 - [education](#education)
 - [elixir](#elixir)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [english](#english)
@@ -465,6 +466,10 @@
 
 - [life4/genesis](https://github.com/life4/genesis) - All generic functions for Go you ever need!
 
+## embedded 
+
+- [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
+
 ## emoji 
 
 - [milesj/emojibase](https://github.com/milesj/emojibase) - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
@@ -827,7 +832,7 @@
 - [jhuntwork/merelinux](https://github.com/jhuntwork/merelinux) - A lightweight Linux distribution using musl libc, pacman and s6
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
-- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many opering systems
+- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [xdg-rs/dirs](https://github.com/xdg-rs/dirs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
@@ -879,7 +884,7 @@
 
 ## mac 
 
-- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many opering systems
+- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
 
 ## machine-learning 
 
@@ -890,7 +895,7 @@
 ## macos 
 
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
-- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many opering systems
+- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [xdg-rs/dirs](https://github.com/xdg-rs/dirs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
@@ -984,6 +989,7 @@
 
 ## others 
 
+- [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [JesusFreke/lalboard](https://github.com/JesusFreke/lalboard) - A 3D-printed keyboard inspired by the DataHand
 - [pierrechevalier83/ferris](https://github.com/pierrechevalier83/ferris) - A low profile split keyboard designed to satisfy one single use case elegantly
@@ -1415,6 +1421,7 @@
 
 ## rust 
 
+- [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support.
@@ -1438,7 +1445,7 @@
 - [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [AmrDeveloper/Lineeditor](https://github.com/AmrDeveloper/Lineeditor) - A new cross platform general prupose Line editor implementation designed with the goal to be flexible and customizable
 - [branchseer/rust-nodejs](https://github.com/branchseer/rust-nodejs) - Embedding Node.js in Rust
-- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many opering systems
+- [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
 - [khonsulabs/bonsaidb](https://github.com/khonsulabs/bonsaidb) - A developer-friendly document database that grows with you, written in Rust
 - [khonsulabs/cushy](https://github.com/khonsulabs/cushy) - An experimental cross-platform graphical user interface (GUI) crate for Rust.
 - [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross
