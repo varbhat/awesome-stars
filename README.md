@@ -190,6 +190,7 @@
 
 ## Go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
@@ -469,6 +470,7 @@
 
 ## Python 
 
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [JesusFreke/lalboard](https://github.com/JesusFreke/lalboard) - A 3D-printed keyboard inspired by the DataHand
 - [pierrechevalier83/ferris](https://github.com/pierrechevalier83/ferris) - A low profile split keyboard designed to satisfy one single use case elegantly
