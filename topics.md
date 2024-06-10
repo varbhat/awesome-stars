@@ -245,6 +245,7 @@
 
 ## babel 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
 ## backend 
@@ -991,6 +992,7 @@
 
 ## others 
 
+- [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
 - [JesusFreke/lalboard](https://github.com/JesusFreke/lalboard) - A 3D-printed keyboard inspired by the DataHand
@@ -1424,6 +1426,7 @@
 
 ## rust 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
@@ -1637,6 +1640,7 @@
 
 ## typescript 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [cifkao/html-midi-player](https://github.com/cifkao/html-midi-player) - 🎹 Play and display MIDI files on the web
 - [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
 - [mtth/avsc](https://github.com/mtth/avsc) - Avro for JavaScript :zap:
