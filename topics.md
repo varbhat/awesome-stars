@@ -992,6 +992,7 @@
 
 ## others 
 
+- [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
 - [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
