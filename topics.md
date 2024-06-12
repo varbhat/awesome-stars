@@ -12,6 +12,7 @@
 - [android](#android)
 - [api](#api)
 - [archlinux](#archlinux)
+- [arduino](#arduino)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
@@ -122,6 +123,7 @@
 - [react](#react)
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
+- [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
 - [scikit-learn](#scikit-learn)
@@ -191,6 +193,10 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 
+## arduino 
+
+- [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
+
 ## awesome 
 
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
@@ -212,6 +218,7 @@
 
 ## awesome-list 
 
+- [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
@@ -267,6 +274,7 @@
 
 ## c 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -470,6 +478,7 @@
 
 ## embedded 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 
 ## emoji 
@@ -512,6 +521,7 @@
 
 ## game 
 
+- [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 - [rajko-horvat/OpenCiv1](https://github.com/rajko-horvat/OpenCiv1) - Open source rewrite of the original Civilization Game designed by Sid Meier and Bruce Shelley in year 1991
 - [NagyD/SDLPoP](https://github.com/NagyD/SDLPoP) - An open-source port of Prince of Persia, based on the disassembly of the DOS version.
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
@@ -827,6 +837,7 @@
 
 ## linux 
 
+- [beeper/beepy](https://github.com/beeper/beepy) - Beepy
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [akawashiro/sloader](https://github.com/akawashiro/sloader) - sloader is an ELF loader which aims to replace ld-linux.so of glibc.
 - [EHfive/pw-capture](https://github.com/EHfive/pw-capture) - Vulkan/OpenGL (game) capture for PipeWire
@@ -969,6 +980,7 @@
 
 ## open-source 
 
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [tus/tus-resumable-upload-protocol](https://github.com/tus/tus-resumable-upload-protocol) - Open Protocol for Resumable File Uploads
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -986,12 +998,19 @@
 
 ## operating-system 
 
+- [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [oro-os/kernel](https://github.com/oro-os/kernel) - Kernel for the Oro Operating System
 - [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a future where every student can read all the code of a teaching operating system.
 - [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
 ## others 
 
+- [badgeek/svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - Convert Inkscape SVG drawings to KiCad PCB and footprint modules
+- [GlasgowEmbedded/glasgow](https://github.com/GlasgowEmbedded/glasgow) - Scots Army Knife for electronics
+- [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
+- [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
+- [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
+- [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
 - [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
@@ -1404,6 +1423,9 @@
 
 ## raspberry-pi 
 
+- [beeper/beepy](https://github.com/beeper/beepy) - Beepy
+- [a8ksh4/chonky-palmtop](https://github.com/a8ksh4/chonky-palmtop) - Pi4 based cyberdeck with 7" display, folding Miryoku-layout crkbd keyboard, and a chunky battery.
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 
 ## react 
@@ -1420,6 +1442,10 @@
 
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+
+## robotics 
+
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 
 ## ruby 
 
