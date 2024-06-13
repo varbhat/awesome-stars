@@ -837,6 +837,7 @@
 
 ## linux 
 
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi
 - [beeper/beepy](https://github.com/beeper/beepy) - Beepy
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [akawashiro/sloader](https://github.com/akawashiro/sloader) - sloader is an ELF loader which aims to replace ld-linux.so of glibc.
