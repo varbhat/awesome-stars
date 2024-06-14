@@ -45,6 +45,7 @@
 
 ## C 
 
+- [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
