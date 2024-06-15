@@ -307,6 +307,7 @@
 
 ## cli 
 
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support.
@@ -436,6 +437,7 @@
 
 ## docker 
 
+- [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar) - A multi-sandbox container runtime that provides cloud-native, all-scenario multiple sandbox container solutions.
@@ -808,6 +810,8 @@
 
 ## kubernetes 
 
+- [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
@@ -1426,6 +1430,7 @@
 
 ## raspberry-pi 
 
+- [cardonabits/haxo-hw](https://github.com/cardonabits/haxo-hw) - Haxophone, an electronic musical instrument that resembles a saxophone
 - [beeper/beepy](https://github.com/beeper/beepy) - Beepy
 - [a8ksh4/chonky-palmtop](https://github.com/a8ksh4/chonky-palmtop) - Pi4 based cyberdeck with 7" display, folding Miryoku-layout crkbd keyboard, and a chunky battery.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -1456,6 +1461,8 @@
 
 ## rust 
 
+- [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 - [rkyv/rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
@@ -1644,6 +1651,7 @@
 
 ## terminal 
 
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
