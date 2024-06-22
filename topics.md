@@ -182,6 +182,7 @@
 
 ## api 
 
+- [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -1028,6 +1029,8 @@
 
 ## others 
 
+- [system-f/fp-course](https://github.com/system-f/fp-course) - Functional Programming Course
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [amroibrahim/DIYDoom](https://github.com/amroibrahim/DIYDoom) - An attempt to understand how DOOM engine works
 - [maxvfischer/DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine) - How to build your own CNC machine from scratch
 - [nuIIpointerexception/vterm](https://github.com/nuIIpointerexception/vterm) - fast, cross platform, vulkan based terminal emulator.
@@ -1480,6 +1483,7 @@
 
 ## rust 
 
+- [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
