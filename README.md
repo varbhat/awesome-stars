@@ -15,6 +15,7 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -136,6 +137,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [amroibrahim/DIYDoom](https://github.com/amroibrahim/DIYDoom) - An attempt to understand how DOOM engine works
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [jarrocha/XinuBBB](https://github.com/jarrocha/XinuBBB) - Source and guide to run Xinu on the BeagleBone Black
@@ -323,6 +325,10 @@
 - [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
 - [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
 - [btholt/four-semesters-of-cs](https://github.com/btholt/four-semesters-of-cs) - 
+
+## Haskell 
+
+- [system-f/fp-course](https://github.com/system-f/fp-course) - Functional Programming Course
 
 ## Java 
 
@@ -532,6 +538,7 @@
 
 ## Rust 
 
+- [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [nuIIpointerexception/vterm](https://github.com/nuIIpointerexception/vterm) - fast, cross platform, vulkan based terminal emulator.
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
