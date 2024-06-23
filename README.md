@@ -23,6 +23,7 @@
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [Others](#others)
 - [Prolog](#prolog)
 - [Python](#python)
@@ -412,6 +413,10 @@
 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 
+## Nix 
+
+- [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+
 ## Others 
 
 - [maxvfischer/DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine) - How to build your own CNC machine from scratch
@@ -538,6 +543,8 @@
 
 ## Rust 
 
+- [aheart/hearth](https://github.com/aheart/hearth) - Linux server monitoring via SSH 🔥📊
+- [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [nuIIpointerexception/vterm](https://github.com/nuIIpointerexception/vterm) - fast, cross platform, vulkan based terminal emulator.
