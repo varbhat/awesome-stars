@@ -956,6 +956,7 @@
 
 ## monitoring 
 
+- [aheart/hearth](https://github.com/aheart/hearth) - Linux server monitoring via SSH 🔥📊
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 
 ## music 
@@ -1029,6 +1030,8 @@
 
 ## others 
 
+- [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+- [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
 - [system-f/fp-course](https://github.com/system-f/fp-course) - Functional Programming Course
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [amroibrahim/DIYDoom](https://github.com/amroibrahim/DIYDoom) - An attempt to understand how DOOM engine works
@@ -1483,6 +1486,7 @@
 
 ## rust 
 
+- [aheart/hearth](https://github.com/aheart/hearth) - Linux server monitoring via SSH 🔥📊
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
