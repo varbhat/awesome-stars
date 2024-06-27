@@ -85,7 +85,6 @@
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [gotoco/dummyfs](https://github.com/gotoco/dummyfs) - Simple Linux Filesystem designed for learning purposes
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [yukitheclown/ZIM](https://github.com/yukitheclown/ZIM) - Text editor in OpenGL
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
@@ -162,6 +161,7 @@
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [chfoo/cobbletext](https://github.com/chfoo/cobbletext) - Complex text layout and rendering engine library
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -552,7 +552,7 @@
 - [nuIIpointerexception/vterm](https://github.com/nuIIpointerexception/vterm) - fast, cross platform, vulkan based terminal emulator.
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
-- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi for Linux.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 - [EHfive/pw-capture](https://github.com/EHfive/pw-capture) - Vulkan/OpenGL (game) capture for PipeWire
@@ -713,7 +713,7 @@
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [SixArm/rust-summaries](https://github.com/SixArm/rust-summaries) - Rust summaries are short introductions to Rust programming topics, including the language, ecosystem, concepts, crates, and more.
 - [lopukhov/unbox](https://github.com/lopukhov/unbox) - Unshare a toolbox
-- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler written in Rust. Maintained by @a11ywatch.
+- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler. Maintained by @a11ywatch.
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
