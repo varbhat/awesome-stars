@@ -857,7 +857,7 @@
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
-- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi for Linux.
 - [beeper/beepy](https://github.com/beeper/beepy) - Beepy
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [akawashiro/sloader](https://github.com/akawashiro/sloader) - sloader is an ELF loader which aims to replace ld-linux.so of glibc.
@@ -1581,7 +1581,7 @@
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) - MessagePack implementation for Rust / msgpack.org[Rust]
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
-- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler written in Rust. Maintained by @a11ywatch.
+- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler. Maintained by @a11ywatch.
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
