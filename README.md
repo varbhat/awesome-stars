@@ -552,7 +552,7 @@
 - [nuIIpointerexception/vterm](https://github.com/nuIIpointerexception/vterm) - fast, cross platform, vulkan based terminal emulator.
 - [JelteF/derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
-- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi for Linux.
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 - [EHfive/pw-capture](https://github.com/EHfive/pw-capture) - Vulkan/OpenGL (game) capture for PipeWire
@@ -713,7 +713,7 @@
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [SixArm/rust-summaries](https://github.com/SixArm/rust-summaries) - Rust summaries are short introductions to Rust programming topics, including the language, ecosystem, concepts, crates, and more.
 - [lopukhov/unbox](https://github.com/lopukhov/unbox) - Unshare a toolbox
-- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler. Maintained by @a11ywatch.
+- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler written in Rust. Maintained by @a11ywatch.
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
