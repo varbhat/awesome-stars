@@ -579,6 +579,7 @@
 
 ## go 
 
+- [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing...
 - [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
@@ -635,6 +636,7 @@
 
 ## golang 
 
+- [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing...
 - [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
