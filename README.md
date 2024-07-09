@@ -210,6 +210,7 @@
 
 ## Go 
 
+- [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo
 - [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing...
 - [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -387,6 +388,7 @@
 
 ## Kotlin 
 
+- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard VPN
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
 
 ## LLVM 
