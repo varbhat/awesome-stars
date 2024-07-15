@@ -49,6 +49,7 @@
 
 ## C 
 
+- [jfedor2/rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360) - RP2040+PMW3360 PCB and code
 - [inputlabs/alpakka_firmware](https://github.com/inputlabs/alpakka_firmware) - 
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -165,7 +166,7 @@
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [chfoo/cobbletext](https://github.com/chfoo/cobbletext) - Complex text layout and rendering engine library
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [seanbaxter/circle](https://github.com/seanbaxter/circle) - The compiler is available for download. Get it!
 - [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is a convenient, simple and modern gpu abstraction built on vulkan
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
