@@ -551,6 +551,7 @@
 
 ## Rust 
 
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [maciejhirsz/logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
@@ -823,6 +824,7 @@
 
 ## TeX 
 
+- [josephwright/beamer](https://github.com/josephwright/beamer) - A LaTeX class for producing presentations and slides
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)
 - [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
