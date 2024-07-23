@@ -86,6 +86,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [languages](#languages)
+- [latex](#latex)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -854,6 +855,10 @@
 
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 
+## latex 
+
+- [josephwright/beamer](https://github.com/josephwright/beamer) - A LaTeX class for producing presentations and slides
+
 ## learning 
 
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -1050,6 +1055,7 @@
 
 ## others 
 
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
 - [jfedor2/rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360) - RP2040+PMW3360 PCB and code
 - [dzbarsky/static-clang](https://github.com/dzbarsky/static-clang) - Statically-linked clang distribution. Uses musl libc on Linux and only depends on libSystem on OSX
