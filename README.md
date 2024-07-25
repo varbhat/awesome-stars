@@ -662,7 +662,7 @@
 - [htrefil/rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
 - [dancrossnyc/rxv64](https://github.com/dancrossnyc/rxv64) - xv6 OS
 - [wojciech-graj/oriel](https://github.com/wojciech-graj/oriel) - An interpreter for the 1991 Oriel scripting language
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [messense/dav-server-rs](https://github.com/messense/dav-server-rs) - Rust WebDAV server library. A fork of the webdav-handler crate.
 - [MaarifaMaarifa/series-troxide](https://github.com/MaarifaMaarifa/series-troxide) - A Simple and Modern Series Tracker
 - [arcnmx/input-linux-rs](https://github.com/arcnmx/input-linux-rs) - evdev and uinput for Rust
