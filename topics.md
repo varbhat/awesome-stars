@@ -13,6 +13,7 @@
 - [api](#api)
 - [archlinux](#archlinux)
 - [arduino](#arduino)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [aws](#aws)
@@ -204,6 +205,10 @@
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 
+## automation 
+
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
+
 ## awesome 
 
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
@@ -315,6 +320,7 @@
 
 ## cli 
 
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
@@ -492,7 +498,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a world where every student can read all the code of a teaching operating system.
+- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a future where every student can read all the code of a teaching operating system.
 
 ## elixir 
 
@@ -522,7 +528,7 @@
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [jeb5/Sidetabs](https://github.com/jeb5/Sidetabs) - Because tabs should be vertical
 - [IceDBorn/pipewire-screenaudio](https://github.com/IceDBorn/pipewire-screenaudio) - Extension to passthrough pipewire audio to WebRTC Screenshare
-- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC in Rust
+- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, the Mozilla Firefox implementation of QUIC in Rust
 
 ## font 
 
@@ -769,6 +775,7 @@
 
 ## http 
 
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -1051,7 +1058,7 @@
 
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [oro-os/kernel](https://github.com/oro-os/kernel) - Kernel for the Oro Operating System
-- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a world where every student can read all the code of a teaching operating system.
+- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a future where every student can read all the code of a teaching operating system.
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
 - [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
@@ -1453,6 +1460,7 @@
 
 ## python 
 
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
@@ -1506,6 +1514,7 @@
 
 ## rest-api 
 
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 
@@ -1611,7 +1620,7 @@
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
-- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, an implementation of QUIC in Rust
+- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, the Mozilla Firefox implementation of QUIC in Rust
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) - MessagePack implementation for Rust / msgpack.org[Rust]
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
@@ -1717,6 +1726,7 @@
 
 ## terminal 
 
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
