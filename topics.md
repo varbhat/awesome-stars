@@ -288,7 +288,6 @@
 
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [attractivechaos/klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
