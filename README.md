@@ -402,6 +402,7 @@
 
 ## Lua 
 
+- [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [juansalvatore/git-dashboard-nvim](https://github.com/juansalvatore/git-dashboard-nvim) - Your git contributions heatmap chart inside your favorite nvim dashboards.
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim
@@ -733,7 +734,7 @@
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [SixArm/rust-summaries](https://github.com/SixArm/rust-summaries) - Rust summaries are short introductions to Rust programming topics, including the language, ecosystem, concepts, crates, and more.
 - [lopukhov/unbox](https://github.com/lopukhov/unbox) - Unshare a toolbox
-- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler written in Rust. Maintained by @a11ywatch.
+- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest, most efficient web crawler and scraper written in Rust. Maintained by @a11ywatch.
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
