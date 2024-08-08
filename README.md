@@ -214,6 +214,7 @@
 
 ## Go 
 
+- [volatiletech/authboss](https://github.com/volatiletech/authboss) - The boss of http auth.
 - [linuxerwang/goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) - An interactive tool to analyze Golang goroutine dump.
 - [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 - [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo
