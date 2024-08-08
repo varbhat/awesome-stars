@@ -1075,6 +1075,7 @@
 
 ## others 
 
+- [volatiletech/authboss](https://github.com/volatiletech/authboss) - The boss of http auth.
 - [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [iliana/paws](https://github.com/iliana/paws) - a simple pause container 🐾
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
