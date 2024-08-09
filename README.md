@@ -565,6 +565,7 @@
 
 ## Rust 
 
+- [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support
 - [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo) - Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT.
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
