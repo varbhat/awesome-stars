@@ -140,7 +140,7 @@
 
 ## C++ 
 
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows and Linux
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [KomputeProject/kompute](https://github.com/KomputeProject/kompute) - General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for ad
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [amroibrahim/DIYDoom](https://github.com/amroibrahim/DIYDoom) - An attempt to understand how DOOM engine works
@@ -326,7 +326,7 @@
 - [northbright/Notes](https://github.com/northbright/Notes) - Development Notes
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
 - [anthumchris/fetch-progress-indicators](https://github.com/anthumchris/fetch-progress-indicators) - Progress indicators/bars using Streams, Service Workers, and Fetch APIs
-- [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
+- [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [kennyfrc/cami.js](https://github.com/kennyfrc/cami.js) - Cami.js is a simple yet powerful toolkit for interactive islands in web applications. No build step required.
@@ -568,6 +568,7 @@
 
 ## Rust 
 
+- [aya-rs/bpf-linker](https://github.com/aya-rs/bpf-linker) - Simple BPF static linker
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support
 - [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
