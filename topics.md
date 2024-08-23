@@ -53,6 +53,7 @@
 - [dotnet](#dotnet)
 - [education](#education)
 - [elixir](#elixir)
+- [emacs](#emacs)
 - [embedded](#embedded)
 - [emoji](#emoji)
 - [emulator](#emulator)
@@ -528,6 +529,10 @@
 ## elixir 
 
 - [life4/genesis](https://github.com/life4/genesis) - All generic functions for Go you ever need!
+
+## emacs 
+
+- [zee-editor/zee](https://github.com/zee-editor/zee) - A modern text editor for the terminal written in Rust
 
 ## embedded 
 
