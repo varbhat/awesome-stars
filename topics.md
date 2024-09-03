@@ -188,6 +188,7 @@
 
 ## android 
 
+- [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard VPN
 - [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
 - [adrien-ben/vulkan-tutorial-rs](https://github.com/adrien-ben/vulkan-tutorial-rs) - Vulkan tutorial written in Rust using Ash
@@ -888,6 +889,7 @@
 
 ## kotlin 
 
+- [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
 - [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard VPN
 
 ## kubernetes 
@@ -928,6 +930,7 @@
 
 ## linux 
 
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF
 - [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -1599,6 +1602,7 @@
 
 ## rust 
 
+- [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
 - [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
 - [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image support
