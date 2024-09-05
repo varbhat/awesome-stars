@@ -356,7 +356,7 @@
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [reemus-dev/gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection
 - [Doctave/doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A music player in POSIX sh(1) to control mpv from the terminal + extra goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A shell script player to control mpv from the terminal + extras/goodies 🚀.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
@@ -1023,7 +1023,7 @@
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [xdg-rs/dirs](https://github.com/xdg-rs/dirs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A music player in POSIX sh(1) to control mpv from the terminal + extra goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A shell script player to control mpv from the terminal + extras/goodies 🚀.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
 ## markdown 
@@ -1827,7 +1827,7 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [atanunq/viuer](https://github.com/atanunq/viuer) - Rust library for displaying images in the terminal.
 - [ivanceras/titik](https://github.com/ivanceras/titik) - A cross platform minimalistic text user interface
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A music player in POSIX sh(1) to control mpv from the terminal + extra goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A shell script player to control mpv from the terminal + extras/goodies 🚀.
 - [benjajaja/ratatui-image](https://github.com/benjajaja/ratatui-image) - Ratatui widget for rendering image graphics in terminals that support it
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
