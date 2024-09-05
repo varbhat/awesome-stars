@@ -836,7 +836,7 @@
 - [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
 - [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton)
-- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A music player in POSIX sh(1) to control mpv from the terminal + extra goodies 🚀
+- [gmt4/mpvc](https://github.com/gmt4/mpvc) - A shell script player to control mpv from the terminal + extras/goodies 🚀.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [learnbyexample/learn_gnugrep_ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep) - Example based guide to mastering GNU grep and ripgrep
