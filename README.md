@@ -50,6 +50,7 @@
 
 ## C 
 
+- [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
 - [jfedor2/rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360) - RP2040+PMW3360 PCB and code
 - [inputlabs/alpakka_firmware](https://github.com/inputlabs/alpakka_firmware) - 
 - [open-sdr/openwifi](https://github.com/open-sdr/openwifi) - open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software
@@ -571,6 +572,7 @@
 
 ## Rust 
 
+- [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) interpreter.
 - [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
