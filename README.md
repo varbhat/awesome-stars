@@ -41,6 +41,7 @@
 
 ## Assembly 
 
+- [memorysafety/rav1d](https://github.com/memorysafety/rav1d) - An AV1 decoder in Rust.
 - [gblargg/vusb-joystick](https://github.com/gblargg/vusb-joystick) - Minimal USB joystick example using V-USB
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 
@@ -574,6 +575,7 @@
 
 ## Rust 
 
+- [memorysafety/zlib-rs](https://github.com/memorysafety/zlib-rs) - A safer zlib
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
