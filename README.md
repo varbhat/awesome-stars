@@ -575,6 +575,8 @@
 
 ## Rust 
 
+- [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
+- [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices; a lib and modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [memorysafety/zlib-rs](https://github.com/memorysafety/zlib-rs) - A safer zlib
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
@@ -753,7 +755,7 @@
 - [adrien-ben/vulkan-tutorial-rs](https://github.com/adrien-ben/vulkan-tutorial-rs) - Vulkan tutorial written in Rust using Ash
 - [maciejhirsz/kobold](https://github.com/maciejhirsz/kobold) - Easy declarative web interfaces.
 - [cksac/compose-rt](https://github.com/cksac/compose-rt) - A positional memoization runtime
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 - [guni1192/cromwell](https://github.com/guni1192/cromwell) - Rust Rootless Container Runntime
