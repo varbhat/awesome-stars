@@ -23,6 +23,7 @@
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Meson](#meson)
 - [Nix](#nix)
 - [Others](#others)
 - [Prolog](#prolog)
@@ -440,6 +441,10 @@
 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 
+## Meson 
+
+- [misyltoad/frog-protocols](https://github.com/misyltoad/frog-protocols) - 
+
 ## Nix 
 
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
@@ -575,6 +580,7 @@
 
 ## Rust 
 
+- [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices; a lib and modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
