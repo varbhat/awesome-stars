@@ -996,6 +996,7 @@
 
 ## lua 
 
+- [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A minimal 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️.
 - [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter based structural search and replace plugin for Neovim.
@@ -1144,6 +1145,7 @@
 
 ## others 
 
+- [misyltoad/frog-protocols](https://github.com/misyltoad/frog-protocols) - 
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [memorysafety/zlib-rs](https://github.com/memorysafety/zlib-rs) - A safer zlib
 - [memorysafety/rav1d](https://github.com/memorysafety/rav1d) - An AV1 decoder in Rust.
@@ -1628,6 +1630,7 @@
 
 ## rust 
 
+- [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices; a lib and modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
