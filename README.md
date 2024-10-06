@@ -582,6 +582,7 @@
 
 ## Rust 
 
+- [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
