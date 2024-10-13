@@ -85,7 +85,7 @@
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [chimera-linux/sd-tools](https://github.com/chimera-linux/sd-tools) - Standalone, cleaned up utilities from systemd
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
-- [erincatto/box2c](https://github.com/erincatto/box2c) - Library for 2D Game Physics
+- [erincatto/box2c](https://github.com/erincatto/box2c) - Retired version 3 repository
 - [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit 
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
