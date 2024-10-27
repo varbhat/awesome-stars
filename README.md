@@ -117,7 +117,7 @@
 - [rsms/llvmbox](https://github.com/rsms/llvmbox) - Self contained, fully static llvm tools & libs
 - [irssi/irssi](https://github.com/irssi/irssi) - The client of the future
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [containers/composefs](https://github.com/containers/composefs) - a file system for mounting container images
+- [containers/composefs](https://github.com/containers/composefs) - The reliability of disk images, the flexibility of files
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [jpbruyere/vkvg](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library
 - [gwsystems/composite](https://github.com/gwsystems/composite) - A component-based OS
