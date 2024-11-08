@@ -646,7 +646,7 @@
 - [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-- [lotabout/fuzzy-matcher](https://github.com/lotabout/fuzzy-matcher) - Fuzzy Matching Library for Rust
+- [skim-rs/fuzzy-matcher](https://github.com/skim-rs/fuzzy-matcher) - Fuzzy Matching Library for Rust
 - [geph-official/smolscale](https://github.com/geph-official/smolscale) - 
 - [oxidecomputer/helios](https://github.com/oxidecomputer/helios) - Helios: Or, a Vision in a Dream. A Fragment.
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
@@ -751,7 +751,7 @@
 - [chaosprint/bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - bytebeat written in rust
 - [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole) - The superconsole crate provides a handler and building blocks for powerful, yet minimally intrusive TUIs.  It is cross platform, supporting Windows 7+, Linux, and MacOS.  Rustaceans who want to create
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [pleco-rs/Pleco](https://github.com/pleco-rs/Pleco) - A Rust-based re-write of the Stockfish Chess Engine
 - [adrien-ben/vulkan-tutorial-rs](https://github.com/adrien-ben/vulkan-tutorial-rs) - Vulkan tutorial written in Rust using Ash
 - [maciejhirsz/kobold](https://github.com/maciejhirsz/kobold) - Easy declarative web interfaces.
