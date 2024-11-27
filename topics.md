@@ -1172,7 +1172,7 @@
 - [volatiletech/authboss](https://github.com/volatiletech/authboss) - The boss of http auth.
 - [iliana/paws](https://github.com/iliana/paws) - a simple pause container 🐾
 - [Weissle/persistent-breakpoints.nvim](https://github.com/Weissle/persistent-breakpoints.nvim) - Neovim plugin for persistent breakpoints.
-- [IDEA-Research/TAPTR](https://github.com/IDEA-Research/TAPTR) - [ECCV 2024] Official implementation of the paper "TAPTR: Tracking Any Point with Transformers as Detection"
+- [IDEA-Research/TAPTR](https://github.com/IDEA-Research/TAPTR) - [ECCV 2024 & NeurIPS 2024] Official implementation of the paper TAPTR & TAPTRv2 & TAPTRv3
 - [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
 - [jfedor2/rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360) - RP2040+PMW3360 PCB and code
 - [dzbarsky/static-clang](https://github.com/dzbarsky/static-clang) - Statically-linked clang distribution. Uses musl libc on Linux and only depends on libSystem on OSX
