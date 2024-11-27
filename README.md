@@ -447,6 +447,7 @@
 
 ## Others 
 
+- [IDEA-Research/TAPTR](https://github.com/IDEA-Research/TAPTR) - [ECCV 2024 & NeurIPS 2024] Official implementation of the paper TAPTR & TAPTRv2 & TAPTRv3
 - [maxvfischer/DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine) - How to build your own CNC machine from scratch
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
@@ -544,7 +545,6 @@
 - [Open-Wine-Components/umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [IDEA-Research/TAPTR](https://github.com/IDEA-Research/TAPTR) - [ECCV 2024] Official implementation of the paper "TAPTR: Tracking Any Point with Transformers as Detection"
 - [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
