@@ -581,6 +581,7 @@
 
 ## Rust 
 
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [vorner/signal-hook](https://github.com/vorner/signal-hook) - Rust library allowing to register multiple handlers for the same signal
