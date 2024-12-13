@@ -414,6 +414,8 @@
 
 ## Lua 
 
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
+- [VonHeikemen/nvim-light](https://github.com/VonHeikemen/nvim-light) - Lightweight configuration for Neovim focused on providing "basic features" in less than 200 lines of code.
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [Weissle/persistent-breakpoints.nvim](https://github.com/Weissle/persistent-breakpoints.nvim) - Neovim plugin for persistent breakpoints.
@@ -449,6 +451,7 @@
 
 ## Others 
 
+- [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [IDEA-Research/TAPTR](https://github.com/IDEA-Research/TAPTR) - [ECCV 2024 & NeurIPS 2024] Official implementation of the paper TAPTR & TAPTRv2 & TAPTRv3
 - [maxvfischer/DIY-CNC-machine](https://github.com/maxvfischer/DIY-CNC-machine) - How to build your own CNC machine from scratch
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
@@ -582,6 +585,8 @@
 
 ## Rust 
 
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 LSM-based embeddable key-value storage engine written in safe Rust
 - [dekirisu/deki-rs](https://github.com/dekirisu/deki-rs) - A collection of crates, functions and renames tailored to myself!
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
