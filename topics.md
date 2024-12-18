@@ -101,6 +101,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mastodon](#mastodon)
 - [material-design](#material-design)
 - [microsoft](#microsoft)
 - [mongodb](#mongodb)
@@ -703,6 +704,7 @@
 
 ## golang 
 
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
 - [rogpeppe/gohack](https://github.com/rogpeppe/gohack) - Make temporary edits to your Go module dependencies
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -1063,6 +1065,10 @@
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [matthiasbeyer/mdbook-svgbob2](https://github.com/matthiasbeyer/mdbook-svgbob2) - A preprocessor for mdbook to convert svgbob codeblocks into SVG using svgbob
 - [boozook/mdbook-svgbob](https://github.com/boozook/mdbook-svgbob) - SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.
+
+## mastodon 
+
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
 
 ## material-design 
 
