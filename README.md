@@ -588,6 +588,7 @@
 
 ## Rust 
 
+- [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
 - [zeenix/tomling](https://github.com/zeenix/tomling) - A simple TOML parser Rust crate
 - [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
