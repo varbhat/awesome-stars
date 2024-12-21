@@ -1177,6 +1177,7 @@
 
 ## others 
 
+- [sclevine/oratory-dl](https://github.com/sclevine/oratory-dl) - Download oratory1990 EQ settings and convert to text format (for SoundSource/Eq. APO)
 - [zeenix/tomling](https://github.com/zeenix/tomling) - A simple TOML parser Rust crate
 - [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
 - [VonHeikemen/nvim-light](https://github.com/VonHeikemen/nvim-light) - Lightweight configuration for Neovim focused on providing "basic features" in less than 200 lines of code.
