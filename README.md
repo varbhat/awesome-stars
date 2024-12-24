@@ -863,7 +863,7 @@
 - [Bastardkb/Splinky](https://github.com/Bastardkb/Splinky) - Pro-Micro/Elite-C replacement with RP2040 and USB-C
 - [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - a better xdg-open - an active fork
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-- [mattmc3/antidote](https://github.com/mattmc3/antidote) - https://getantidote.github.io - the cure to slow zsh plugin management
+- [mattmc3/antidote](https://github.com/mattmc3/antidote) - https://antidote.sh - the cure to slow zsh plugin management
 - [zonkyio/embedded-postgres-binaries](https://github.com/zonkyio/embedded-postgres-binaries) - Lightweight bundles of PostgreSQL binaries with reduced size intended for testing purposes.
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [jhuntwork/merelinux](https://github.com/jhuntwork/merelinux) - A lightweight Linux distribution using musl libc, pacman and s6
