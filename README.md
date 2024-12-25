@@ -23,6 +23,7 @@
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Meson](#meson)
 - [Nix](#nix)
 - [Others](#others)
@@ -444,6 +445,10 @@
 
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 
+## Markdown 
+
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+
 ## Meson 
 
 - [misyltoad/frog-protocols](https://github.com/misyltoad/frog-protocols) - 
@@ -474,7 +479,6 @@
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [illiliti/respectful-software](https://github.com/illiliti/respectful-software) - Is your software respectful to its community?
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
