@@ -195,7 +195,7 @@
 
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
-- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard VPN
+- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard® and AmneziaWG
 - [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
 - [adrien-ben/vulkan-tutorial-rs](https://github.com/adrien-ben/vulkan-tutorial-rs) - Vulkan tutorial written in Rust using Ash
 - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Rust Bindings for the Skia Graphics Library
@@ -913,7 +913,7 @@
 ## kotlin 
 
 - [abdallahmehiz/mpvKt](https://github.com/abdallahmehiz/mpvKt) - A media player for android, based on mpv-android and built with Jetpack Compose.
-- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard VPN
+- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard® and AmneziaWG
 
 ## kubernetes 
 
@@ -1956,7 +1956,7 @@
 
 ## vpn 
 
-- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard VPN
+- [zaneschepke/wgtunnel](https://github.com/zaneschepke/wgtunnel) - An alternative Android client app for WireGuard® and AmneziaWG
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 
 ## vue 
