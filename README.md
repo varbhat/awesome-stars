@@ -100,7 +100,7 @@
 - [friendlyarm/friendlywrt](https://github.com/friendlyarm/friendlywrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests h
 - [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a future where every student can read all the code of a teaching operating system.
+- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a future where every student can read all the code of an educational operating system.
 - [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux. Cookies included
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
