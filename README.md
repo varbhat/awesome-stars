@@ -218,6 +218,8 @@
 
 ## Go 
 
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
+- [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [mennanov/limiters](https://github.com/mennanov/limiters) - Golang rate limiters for distributed applications
 - [mhersson/mpls](https://github.com/mhersson/mpls) - Markdown Preview Language Server
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
@@ -953,7 +955,7 @@
 
 ## Zig 
 
-- [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
+- [Vexu/arocc](https://github.com/Vexu/arocc) - A modern fully featured C compiler.
 
 
 ## License
