@@ -100,7 +100,7 @@
 - [friendlyarm/friendlywrt](https://github.com/friendlyarm/friendlywrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests h
 - [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a future where every student can read all the code of an educational operating system.
+- [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a future where every student can read all the code of a teaching operating system.
 - [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux. Cookies included
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
@@ -260,7 +260,6 @@
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [elgs/gosqlcrud](https://github.com/elgs/gosqlcrud) - A Go library to work with SQL database using standard `database/sql` api. It supports SQL to array/maps/structs, and CRUD operations on structs.
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) - Type safe enums for Go without code generation or reflection
-- [go-fuego/fuego](https://github.com/go-fuego/fuego) - Golang Fuego - web framework generating OpenAPI 3 spec from source code
 - [eliben/raft](https://github.com/eliben/raft) - :rowboat: Raft implementation in Go
 - [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 - [gocraft/work](https://github.com/gocraft/work) - Process background jobs in Go
