@@ -1777,7 +1777,7 @@
 - [benjajaja/ratatui-image](https://github.com/benjajaja/ratatui-image) - Ratatui widget for rendering image graphics in terminals that support it
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [eorzeatools/microlaunch](https://github.com/eorzeatools/microlaunch) - A native Linux launcher for FINAL FANTASY XIV Online written in Rust
-- [BonnyAD9/uamp](https://github.com/BonnyAD9/uamp) - Universal Advanced Music Player written in Rust using Iced.
+- [BonnyAD9/uamp](https://github.com/BonnyAD9/uamp) - Universal Advanced Music Player written in Rust.
 - [eduidl/iced-7-guis](https://github.com/eduidl/iced-7-guis) - WIP: Implementation of 7GUIs by using iced
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
