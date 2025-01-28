@@ -631,6 +631,7 @@
 
 ## Rust 
 
+- [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast tool to read text-based files in a repository or directory, chunk them, and serialize them for LLM consumption.
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
@@ -951,6 +952,7 @@
 
 ## TypeScript 
 
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (500b) utility to build JSON schema types.
