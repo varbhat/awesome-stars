@@ -176,10 +176,12 @@
 
 ## 3d 
 
+- [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 - [PeterTYLiu/toaster](https://github.com/PeterTYLiu/toaster) - 3D editor for modelling in pure CSS+HTML; no canvas, no WebGL
 
 ## ai 
 
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -236,6 +238,7 @@
 
 ## artificial-intelligence 
 
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
@@ -1021,6 +1024,7 @@
 
 ## linux 
 
+- [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux.
@@ -1077,6 +1081,7 @@
 
 ## llm 
 
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
@@ -1237,6 +1242,7 @@
 
 ## openai 
 
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -1262,6 +1268,8 @@
 
 ## others 
 
+- [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
@@ -1771,6 +1779,8 @@
 
 ## rust 
 
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
+- [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
@@ -1925,6 +1935,7 @@
 
 ## security 
 
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
