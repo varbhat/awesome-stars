@@ -859,7 +859,7 @@
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
 - [master-of-zen/Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
-- [bikeshedder/deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await
+- [deadpool-rs/deadpool](https://github.com/deadpool-rs/deadpool) - Dead simple pool implementation for rust with async-await
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [jswrenn/deflect](https://github.com/jswrenn/deflect) - Reflection via DWARF.
 - [http-rs/route-recognizer](https://github.com/http-rs/route-recognizer) - Recognizes URL patterns with support for dynamic and wildcard segments
@@ -963,6 +963,7 @@
 
 ## TypeScript 
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
