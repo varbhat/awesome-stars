@@ -274,7 +274,7 @@
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [ugorji/go](https://github.com/ugorji/go) - idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org[Go]
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
-- [mahesh-hegde/zserv](https://github.com/mahesh-hegde/zserv) - Small Go HTTP server that serves locally saved web pages from zip files.
+- [mahesh-hegde/zserv](https://github.com/mahesh-hegde/zserv) - Small Go HTTP server that serves locally saved web pages from zip files, directly without unpacking it on disk.
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [elgs/gosqlcrud](https://github.com/elgs/gosqlcrud) - A Go library to work with SQL database using standard `database/sql` api. It supports SQL to array/maps/structs, and CRUD operations on structs.
