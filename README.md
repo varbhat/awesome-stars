@@ -644,6 +644,7 @@
 
 ## Rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [dvc94ch/peernet](https://github.com/dvc94ch/peernet) - easy and reliable p2p networking
 - [Nuhvi/pkarr](https://github.com/Nuhvi/pkarr) - Public Key Addressable Resource Records (sovereign TLDs)
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
