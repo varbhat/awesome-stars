@@ -829,7 +829,7 @@
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [xxjwxc/gowp](https://github.com/xxjwxc/gowp) - golang worker pool , Concurrency limiting goroutine pool
 - [jo-m/trainbot](https://github.com/jo-m/trainbot) - Watches a piece of train track, detects trains, and stitches together images of them.
-- [gokrazy/rsync](https://github.com/gokrazy/rsync) - gokrazy rsync
+- [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [ostafen/xdcc-cli](https://github.com/ostafen/xdcc-cli) - A command line tool for searching and downloading files from the IRC network.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [capnproto/go-capnp](https://github.com/capnproto/go-capnp) - Cap'n Proto library and code generator for Go
@@ -891,7 +891,6 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
-- [orion-rs/orion](https://github.com/orion-rs/orion) - Usable, easy and safe pure-Rust crypto
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -2043,7 +2042,7 @@
 ## server 
 
 - [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
-- [gokrazy/rsync](https://github.com/gokrazy/rsync) - gokrazy rsync
+- [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 
