@@ -427,6 +427,7 @@
 
 ## Jupyter Notebook 
 
+- [vlm-run/vlmrun-cookbook](https://github.com/vlm-run/vlmrun-cookbook) - Examples and guides for using the VLM Run API
 - [ShivamShrirao/CLIP_Image_Search](https://github.com/ShivamShrirao/CLIP_Image_Search) - Search Images through image dataset with text prompt using Open AI's CLIP neural network.
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
@@ -599,6 +600,7 @@
 
 ## Python 
 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
@@ -652,6 +654,7 @@
 
 ## Rust 
 
+- [rust-transit/osm4routing2](https://github.com/rust-transit/osm4routing2) - Extract a street network from Openstreetmap as a graph ready for routing
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [dvc94ch/peernet](https://github.com/dvc94ch/peernet) - easy and reliable p2p networking
 - [Nuhvi/pkarr](https://github.com/Nuhvi/pkarr) - Public Key Addressable Resource Records (sovereign TLDs)
