@@ -212,6 +212,7 @@
 
 ## android 
 
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -959,6 +960,7 @@
 
 ## ios 
 
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
 - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Rust Bindings for the Skia Graphics Library
@@ -1123,6 +1125,7 @@
 
 ## llm 
 
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local!
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 - [vlm-run/vlmrun-cookbook](https://github.com/vlm-run/vlmrun-cookbook) - Examples and guides for using the VLM Run API
@@ -1166,6 +1169,7 @@
 
 ## machine-learning 
 
+- [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
@@ -1346,6 +1350,10 @@
 
 ## others 
 
+- [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [rust-transit/osm4routing2](https://github.com/rust-transit/osm4routing2) - Extract a street network from Openstreetmap as a graph ready for routing
 - [ShivamShrirao/CLIP_Image_Search](https://github.com/ShivamShrirao/CLIP_Image_Search) - Search Images through image dataset with text prompt using Open AI's CLIP neural network.
@@ -2059,6 +2067,7 @@
 
 ## self-hosted 
 
+- [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local!
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
