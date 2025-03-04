@@ -212,6 +212,7 @@
 
 ## android 
 
+- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
@@ -325,7 +326,7 @@
 
 ## backend 
 
-- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend(module) emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects.
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
 
 ## bash 
 
@@ -353,6 +354,7 @@
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
 - [oz123/awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C.
 - [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux. Cookies included
@@ -435,7 +437,7 @@
 
 - [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) - A build-time information stored in your rust project.(binary,lib,cdylib,dylib,wasm)
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A modern fully featured C compiler.
-- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend(module) emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects.
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
 
 ## computer-science 
 
@@ -476,7 +478,7 @@
 
 ## csharp 
 
-- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend(module) emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects.
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
 
 ## css 
 
@@ -607,7 +609,7 @@
 ## dotnet 
 
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
-- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - This rust compiler backend(module) emmits valid CIL (.NET IR), enabling you to use Rust in .NET projects.
+- [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
 
 ## education 
 
