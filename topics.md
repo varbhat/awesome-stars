@@ -571,7 +571,7 @@
 
 ## docker 
 
-- [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
@@ -870,7 +870,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
-- [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
@@ -2054,7 +2054,7 @@
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
-- [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [kanidm/webauthn-rs](https://github.com/kanidm/webauthn-rs) - An implementation of webauthn components for Rustlang servers
 - [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -2077,7 +2077,7 @@
 
 ## server 
 
-- [ory/hydra](https://github.com/ory/hydra) - The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written i
+- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
