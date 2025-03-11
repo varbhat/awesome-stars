@@ -120,7 +120,7 @@
 - [rsms/llvmbox](https://github.com/rsms/llvmbox) - Self contained, fully static llvm tools & libs
 - [irssi/irssi](https://github.com/irssi/irssi) - The client of the future
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-- [containers/composefs](https://github.com/containers/composefs) - The reliability of disk images, the flexibility of files
+- [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [jpbruyere/vkvg](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library
 - [gwsystems/composite](https://github.com/gwsystems/composite) - A component-based OS
