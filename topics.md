@@ -1352,6 +1352,7 @@
 
 ## others 
 
+- [bcc2528/doomgeneric_optimize](https://github.com/bcc2528/doomgeneric_optimize) - doomgeneric optimization
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [bogzbonny/yeehaw](https://github.com/bogzbonny/yeehaw) - TUI Framework With Batteries Included
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
