@@ -53,6 +53,7 @@
 
 ## C 
 
+- [bcc2528/doomgeneric_optimize](https://github.com/bcc2528/doomgeneric_optimize) - doomgeneric optimization
 - [Stellarium/stellarium-web-engine](https://github.com/Stellarium/stellarium-web-engine) - JavaScript planetarium engine
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
