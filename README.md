@@ -1007,6 +1007,7 @@
 
 ## TypeScript 
 
+- [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - Learn Japanese grammar with TypeScript
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
