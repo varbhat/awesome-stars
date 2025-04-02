@@ -234,6 +234,7 @@
 
 ## Go 
 
+- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 - [etclabscore/go-openrpc-reflect](https://github.com/etclabscore/go-openrpc-reflect) - Reflect an OpenRPC document from an existing Golang API.
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
@@ -516,6 +517,8 @@
 
 ## Others 
 
+- [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [robertmuth/awesome-low-level-programming-languages](https://github.com/robertmuth/awesome-low-level-programming-languages) - A curated list of low level programming languages (i.e. suitable for OS and game programming)
