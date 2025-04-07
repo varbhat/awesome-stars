@@ -317,7 +317,7 @@
 - [codesoap/pfuzz](https://github.com/codesoap/pfuzz) - a web fuzzer using the httpipe format
 - [eatonphil/goraft](https://github.com/eatonphil/goraft) - A basic Raft implementation in Go.
 - [kevmo314/codec-from-scratch](https://github.com/kevmo314/codec-from-scratch) - Build a simple video encoder from scratch
-- [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [libui-ng/golang-ui](https://github.com/libui-ng/golang-ui) - Platform-native GUI library for Go. "libui for the next generation"
 - [antchfx/xpath](https://github.com/antchfx/xpath) - XPath package for Golang, supports HTML, XML, JSON document query.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
