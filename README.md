@@ -254,7 +254,7 @@
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [mennanov/limiters](https://github.com/mennanov/limiters) - Golang rate limiters for distributed applications
 - [mhersson/mpls](https://github.com/mhersson/mpls) - Markdown Preview Language Server
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. CURRENTLY LOCKED WHILE MIGRATING -&gt; CODEBERG
 - [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator built on top of NATS
 - [rogpeppe/gohack](https://github.com/rogpeppe/gohack) - Make temporary edits to your Go module dependencies
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
