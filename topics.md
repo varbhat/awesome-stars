@@ -814,7 +814,7 @@
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 - [mennanov/limiters](https://github.com/mennanov/limiters) - Golang rate limiters for distributed applications
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. CURRENTLY LOCKED WHILE MIGRATING -&gt; CODEBERG
 - [rogpeppe/gohack](https://github.com/rogpeppe/gohack) - Make temporary edits to your Go module dependencies
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -1222,7 +1222,7 @@
 
 ## mastodon 
 
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. CURRENTLY LOCKED WHILE MIGRATING -&gt; CODEBERG
 
 ## material-design 
 
