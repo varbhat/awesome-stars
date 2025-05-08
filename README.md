@@ -478,6 +478,8 @@
 
 ## Lua 
 
+- [rezhaTanuharja/minimalistNVIM](https://github.com/rezhaTanuharja/minimalistNVIM) - A simple and minimalist NVIM configurations, written in Lua.
+- [miroshQa/debugmaster.nvim](https://github.com/miroshQa/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
 - [Skardyy/neo-img](https://github.com/Skardyy/neo-img) - cross platform image viewer for neovim
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
@@ -632,6 +634,8 @@
 
 ## Python 
 
+- [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+- [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers.
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
@@ -697,6 +701,7 @@
 
 ## Rust 
 
+- [iced-rs/comet](https://github.com/iced-rs/comet) - A tool to inspect and debug iced applications. Built with iced!
 - [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [wdanilo/crabtime](https://github.com/wdanilo/crabtime) - 
