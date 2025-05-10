@@ -704,6 +704,7 @@
 
 ## Rust 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [nik-rev/ferrishot](https://github.com/nik-rev/ferrishot) - A powerful screenshot app written in Rust 📸🦀
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [iced-rs/comet](https://github.com/iced-rs/comet) - A tool to inspect and debug iced applications. Built with iced!
@@ -1043,6 +1044,7 @@
 
 ## TypeScript 
 
+- [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
