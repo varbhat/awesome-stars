@@ -166,6 +166,7 @@
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [svelte](#svelte)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -173,6 +174,7 @@
 - [text-to-speech](#text-to-speech)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [unreal-engine](#unreal-engine)
 - [vim](#vim)
 - [vpn](#vpn)
@@ -456,6 +458,7 @@
 
 ## compiler 
 
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) - A build-time information stored in your rust project.(binary,lib,cdylib,dylib,wasm)
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A modern fully featured C compiler.
 - [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
@@ -694,6 +697,7 @@
 
 ## framework 
 
+- [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an open-source library of UI components. Under the hood, it uses UIkit 3 and extended with LitElement. The design is based on shadcn/ui.
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
@@ -753,6 +757,7 @@
 
 ## go 
 
+- [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
 - [amanbolat/awesome-go-with-stars](https://github.com/amanbolat/awesome-go-with-stars) - Awesome-go list with stars. Automatically updated.
 - [nats-rpc/nrpc](https://github.com/nats-rpc/nrpc) - nRPC is like gRPC, but over NATS
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
@@ -786,7 +791,6 @@
 - [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
@@ -824,6 +828,8 @@
 
 ## golang 
 
+- [acaloiaro/neoq](https://github.com/acaloiaro/neoq) - Queue-agnostic background job library for Go, with a pleasant API and powerful features.
+- [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
@@ -853,7 +859,6 @@
 - [orsinium-labs/enum](https://github.com/orsinium-labs/enum) - Type safe enums for Go without code generation or reflection
 - [lunjon/gokdl](https://github.com/lunjon/gokdl) - A parser implementation for the KDL document language in Go.
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
-- [gobwas/ws](https://github.com/gobwas/ws) - Tiny WebSocket library for Go.
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
@@ -900,6 +905,7 @@
 
 ## hacktoberfest 
 
+- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1193,6 +1199,7 @@
 
 ## login 
 
+- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 
 ## lua 
@@ -1414,6 +1421,9 @@
 
 ## others 
 
+- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - A platform for simplifying job search
+- [egoodhall/nrpc](https://github.com/egoodhall/nrpc) - Golang code generator for NATS-backed RPC services
 - [fnwiya/japanese-rust-companies](https://github.com/fnwiya/japanese-rust-companies) - 日本で Rust を利用している会社一覧
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - 
@@ -1425,7 +1435,6 @@
 - [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [dobicinaitis/tailwind-cli-extra](https://github.com/dobicinaitis/tailwind-cli-extra) - Tailwind CSS standalone CLI bundled with daisyUI
-- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [developit/vhtml](https://github.com/developit/vhtml) - Render JSX/Hyperscript to HTML strings, without VDOM 🌈
 - [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
@@ -1980,6 +1989,7 @@
 
 ## reverse-engineering 
 
+- [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 
@@ -2249,6 +2259,11 @@
 - [gornostay25/svelte-adapter-bun](https://github.com/gornostay25/svelte-adapter-bun) - A SvelteKit adapter for Bun
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 
+## tailwind 
+
+- [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an open-source library of UI components. Under the hood, it uses UIkit 3 and extended with LitElement. The design is based on shadcn/ui.
+- [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
+
 ## tailwindcss 
 
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an open-source library of UI components. Under the hood, it uses UIkit 3 and extended with LitElement. The design is based on shadcn/ui.
@@ -2315,6 +2330,16 @@
 ## ubuntu 
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+
+## ui 
+
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+- [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an open-source library of UI components. Under the hood, it uses UIkit 3 and extended with LitElement. The design is based on shadcn/ui.
+- [rossrobino/drab](https://github.com/rossrobino/drab) - Interactivity for You
+- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
+- [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
+- [maciejhirsz/kobold](https://github.com/maciejhirsz/kobold) - Easy declarative web interfaces.
+- [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 
 ## unreal-engine 
 
