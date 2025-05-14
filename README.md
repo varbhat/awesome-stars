@@ -7,7 +7,6 @@
 
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -40,7 +39,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [Zig](#zig)
 
 ## Assembly 
 
@@ -50,26 +48,18 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-- [btdig/dhtcrawler2](https://github.com/btdig/dhtcrawler2) - dhtcrawler is a DHT crawler written in erlang. It can join a DHT network and crawl many P2P torrents. The program save all torrent info into database and provide an http interface to search a torrent 
-
-## Blade 
-
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
+- [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
+- [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [joeycastillo/Sensor-Watch](https://github.com/joeycastillo/Sensor-Watch) - A board replacement for the classic Casio F-91W wristwatch
-- [bcc2528/doomgeneric_optimize](https://github.com/bcc2528/doomgeneric_optimize) - doomgeneric optimization
 - [Stellarium/stellarium-web-engine](https://github.com/Stellarium/stellarium-web-engine) - JavaScript planetarium engine
-- [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
-- [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
 - [wangyi-fudan/wyhash](https://github.com/wangyi-fudan/wyhash) - The FASTEST QUALITY hash function, random number generators (PRNG) and hash map.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [jfedor2/rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360) - RP2040+PMW3360 PCB and code
-- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-- [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [mit-pdos/xv6-riscv](https://github.com/mit-pdos/xv6-riscv) - Xv6 for RISC-V
 - [mit-pdos/xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
@@ -84,7 +74,6 @@
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
-- [attractivechaos/klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
@@ -97,30 +86,22 @@
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [erincatto/box2c](https://github.com/erincatto/box2c) - Retired version 3 repository
 - [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit 
-- [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
 - [google/wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
-- [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [gotoco/dummyfs](https://github.com/gotoco/dummyfs) - Simple Linux Filesystem designed for learning purposes
 - [nihui/realsr-ncnn-vulkan](https://github.com/nihui/realsr-ncnn-vulkan) - RealSR super resolution implemented with ncnn library
 - [yukitheclown/ZIM](https://github.com/yukitheclown/ZIM) - Text editor in OpenGL
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [rswier/c4](https://github.com/rswier/c4) - C in four functions
-- [friendlyarm/friendlywrt](https://github.com/friendlyarm/friendlywrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests h
 - [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a future where every student can read all the code of a teaching operating system.
-- [troglobit/finit](https://github.com/troglobit/finit) - Fast init for Linux. Cookies included
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
-- [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
-- [cyanreg/txproto](https://github.com/cyanreg/txproto) - Scriptable multimedia sandbox. Captures, streams and records from a variety of sources.
 - [Ferdi265/wl-mirror](https://github.com/Ferdi265/wl-mirror) - a simple Wayland output mirror client
 - [Ferdi265/pipectl](https://github.com/Ferdi265/pipectl) - a simple named pipe management utility
-- [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [antirez/smaz](https://github.com/antirez/smaz) - Small strings compression library
 - [NagyD/SDLPoP](https://github.com/NagyD/SDLPoP) - An open-source port of Prince of Persia, based on the disassembly of the DOS version.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -130,9 +111,7 @@
 - [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [jpbruyere/vkvg](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library
-- [gwsystems/composite](https://github.com/gwsystems/composite) - A component-based OS
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
-- [wryun/es-shell](https://github.com/wryun/es-shell) - es: a shell with higher-order functions
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [nowrep/obs-vkcapture](https://github.com/nowrep/obs-vkcapture) - OBS Linux Vulkan/OpenGL game capture
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
@@ -141,7 +120,6 @@
 - [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment
 - [seccomp/libseccomp](https://github.com/seccomp/libseccomp) - The main libseccomp repository
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors
-- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [netsurf-browser/netsurf](https://github.com/netsurf-browser/netsurf) - Mirror
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -150,33 +128,27 @@
 
 ## C# # 
 
-- [rajko-horvat/OpenCiv1](https://github.com/rajko-horvat/OpenCiv1) - Open source rewrite of the original Civilization 1 Game designed by Sid Meier and Bruce Shelley in year 1991
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+- [rajko-horvat/OpenCiv1](https://github.com/rajko-horvat/OpenCiv1) - Open source rewrite of the original Civilization 1 Game designed by Sid Meier and Bruce Shelley in year 1991
 
 ## C++ 
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting) - Repository contains pgRouting library. Development branch is "develop", stable branch is "master"
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
-- [dangvd/crystal-dock](https://github.com/dangvd/crystal-dock) - A cool dock (desktop panel) for Linux desktop
-- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [amroibrahim/DIYDoom](https://github.com/amroibrahim/DIYDoom) - An attempt to understand how DOOM engine works
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [badgeek/svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - Convert Inkscape SVG drawings to KiCad PCB and footprint modules
 - [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
-- [google/highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
 - [akawashiro/sloader](https://github.com/akawashiro/sloader) - sloader is an ELF loader which aims to replace ld-linux.so of glibc.
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -185,11 +157,9 @@
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [chfoo/cobbletext](https://github.com/chfoo/cobbletext) - Complex text layout and rendering engine library
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
-- [seanbaxter/circle](https://github.com/seanbaxter/circle) - The compiler is available for download. Get it!
 - [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is a convenient, simple and modern gpu abstraction built on vulkan
 - [CytopiaTeam/Cytopia](https://github.com/CytopiaTeam/Cytopia) - :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
@@ -205,19 +175,12 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
-- [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / "init" system
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 
 ## CSS 
 
-- [OpenRailwayMap/OpenRailwayMap](https://github.com/OpenRailwayMap/OpenRailwayMap) - An OpenStreetMap-based project for creating a map of the world's railway infrastructure.
-- [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
-- [pintariching/railwind](https://github.com/pintariching/railwind) - Tailwind compiler rewritten in rust
-- [jakeswenson/zola-just-the-docs](https://github.com/jakeswenson/zola-just-the-docs) - Just The Docs ported from Jekyll to Zola
-- [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
+- [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
 
 ## Cuda 
 
@@ -244,7 +207,6 @@
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
-- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 - [etclabscore/go-openrpc-reflect](https://github.com/etclabscore/go-openrpc-reflect) - Reflect an OpenRPC document from an existing Golang API.
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [maragudk/gomponents](https://github.com/maragudk/gomponents) - HTML components in pure Go.
@@ -252,7 +214,6 @@
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [go-fuego/fuego](https://github.com/go-fuego/fuego) - Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs
@@ -311,7 +272,6 @@
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [lesismal/go-websocket-benchmark](https://github.com/lesismal/go-websocket-benchmark) - 
-- [lesismal/nbio](https://github.com/lesismal/nbio) - Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-performance and low memory cost, non-blocking, event-driven, easy-to-use.
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
@@ -323,12 +283,12 @@
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [fieldryand/goflow](https://github.com/fieldryand/goflow) - Simple but powerful DAG scheduler and dashboard
 - [wadahiro/go-transproxy](https://github.com/wadahiro/go-transproxy) - Transparent proxy servers for HTTP, HTTPS, DNS and TCP.
-- [codesoap/pfuzz](https://github.com/codesoap/pfuzz) - a web fuzzer using the httpipe format
+- [codesoap/pfuzz](https://github.com/codesoap/pfuzz) - A web fuzzer using the httpipe format
 - [eatonphil/goraft](https://github.com/eatonphil/goraft) - A basic Raft implementation in Go.
 - [kevmo314/codec-from-scratch](https://github.com/kevmo314/codec-from-scratch) - Build a simple video encoder from scratch
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [libui-ng/golang-ui](https://github.com/libui-ng/golang-ui) - Platform-native GUI library for Go. "libui for the next generation"
-- [antchfx/xpath](https://github.com/antchfx/xpath) - XPath package for Golang, supports HTML, XML, JSON document query.
+- [antchfx/xpath](https://github.com/antchfx/xpath) - XPath package for Go, supports HTML, XML, JSON document query and more
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [go-chi/httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities built on "log/slog" package
@@ -341,7 +301,6 @@
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [xxjwxc/gowp](https://github.com/xxjwxc/gowp) - golang worker pool , Concurrency limiting goroutine pool
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -379,7 +338,6 @@
 ## HTML 
 
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
-- [simonfrey/tabsub](https://github.com/simonfrey/tabsub) - Offline Javascript PubSub between browser tabs using local storage
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [northbright/Notes](https://github.com/northbright/Notes) - Development Notes
@@ -405,12 +363,12 @@
 
 - [egoodhall/nrpc](https://github.com/egoodhall/nrpc) - Golang code generator for NATS-backed RPC services
 - [slowscript/warpinator-android](https://github.com/slowscript/warpinator-android) - An unofficial implementation of Warpinator for Android
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 
 ## JavaScript 
 
+- [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
 - [dy/sprae](https://github.com/dy/sprae) - ∴ DOM tree microhydration
@@ -423,7 +381,6 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
-- [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [ranelpadon/ngram-type](https://github.com/ranelpadon/ngram-type) - Touch typing trainer using N-grams as data source, with options to customize the auto-generated lessons and specify the minimum typing performance needed. There are sound/color effects as well.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -487,38 +444,13 @@
 
 ## Lua 
 
-- [rezhaTanuharja/minimalistNVIM](https://github.com/rezhaTanuharja/minimalistNVIM) - A simple and minimalist NVIM configurations, written in Lua.
-- [miroshQa/debugmaster.nvim](https://github.com/miroshQa/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
-- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
-- [Skardyy/neo-img](https://github.com/Skardyy/neo-img) - cross platform image viewer for neovim
-- [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
-- [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) - Hover plugin framework for Neovim
-- [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
-- [igorlfs/nvim-dap-view](https://github.com/igorlfs/nvim-dap-view) - Visualize debugging sessions in neovim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
-- [VonHeikemen/nvim-light](https://github.com/VonHeikemen/nvim-light) - Lightweight configuration for Neovim focused on providing "basic features" in less than 200 lines of code.
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
-- [Weissle/persistent-breakpoints.nvim](https://github.com/Weissle/persistent-breakpoints.nvim) - Neovim plugin for persistent breakpoints.
-- [smoka7/multicursors.nvim](https://github.com/smoka7/multicursors.nvim) - A multi cursor plugin for Neovim.
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
-- [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter based structural search and replace plugin for Neovim.
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
-- [nvim-telescope/telescope-live-grep-args.nvim](https://github.com/nvim-telescope/telescope-live-grep-args.nvim) - Live grep with args
 - [GnikDroy/projections.nvim](https://github.com/GnikDroy/projections.nvim) - A map to your filesystem
-- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
-- [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
-- [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
-- [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
-- [folke/neoconf.nvim](https://github.com/folke/neoconf.nvim) - 💼 Neovim plugin to manage global and project-local settings
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-- [BeamMP/BeamMP](https://github.com/BeamMP/BeamMP) - Bringing multiplayer to BeamNG.drive
-- [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
-- [occivink/mpv-gallery-view](https://github.com/occivink/mpv-gallery-view) - Gallery-view scripts for mpv
 
 ## Makefile 
 
@@ -669,7 +601,6 @@
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
@@ -698,7 +629,6 @@
 - [3digitdev/Haiku-TTP-Codes](https://github.com/3digitdev/Haiku-TTP-Codes) - HTTP Status Codes with Haikus for messages
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
@@ -715,12 +645,12 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [nats-io/nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [nik-rev/ferrishot](https://github.com/nik-rev/ferrishot) - A powerful screenshot app written in Rust 📸🦀
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [iced-rs/comet](https://github.com/iced-rs/comet) - A tool to inspect and debug iced applications. Built with iced!
-- [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
+- [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [wdanilo/crabtime](https://github.com/wdanilo/crabtime) - 
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -730,9 +660,7 @@
 - [dvc94ch/peernet](https://github.com/dvc94ch/peernet) - easy and reliable p2p networking
 - [Nuhvi/pkarr](https://github.com/Nuhvi/pkarr) - Public Key Addressable Resource Records (sovereign TLDs)
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
-- [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [printfn/fend](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [mahkoh/jay](https://github.com/mahkoh/jay) - A Wayland Compositor
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -799,7 +727,6 @@
 - [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous) - A xdg-desktop-portal for wlroots based compositors implementing zwlr_screencopy. Written by @decodetalkers
 - [mcy/0x](https://github.com/mcy/0x) - `0x` - like `xxd` but colorful!
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [faokunega/pg-embed](https://github.com/faokunega/pg-embed) - Run a Postgresql database locally on Linux, MacOS or Windows as part of another Rust application or test.
 - [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
@@ -821,7 +748,6 @@
 - [jjmartinodev/kopki](https://github.com/jjmartinodev/kopki) - 
 - [kdl-org/kdl-rs](https://github.com/kdl-org/kdl-rs) - Rust parser for KDL
 - [paritytech/jsonrpc](https://github.com/paritytech/jsonrpc) - Rust JSON-RPC implementation
-- [getsentry/sentry-rust](https://github.com/getsentry/sentry-rust) - Official Sentry SDK for Rust
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [skim-rs/fuzzy-matcher](https://github.com/skim-rs/fuzzy-matcher) - Fuzzy Matching Library for Rust
@@ -857,7 +783,6 @@
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - moved to https://codeberg.org/dirs/directories-rs
 - [xdg-rs/dirs](https://github.com/xdg-rs/dirs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
@@ -902,7 +827,6 @@
 - [eorzeatools/microlaunch](https://github.com/eorzeatools/microlaunch) - A native Linux launcher for FINAL FANTASY XIV Online written in Rust
 - [onagre-launcher/onagre](https://github.com/onagre-launcher/onagre) - A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred
 - [BonnyAD9/uamp](https://github.com/BonnyAD9/uamp) - Universal Advanced Music Player written in Rust.
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [eduidl/iced-7-guis](https://github.com/eduidl/iced-7-guis) - WIP: Implementation of 7GUIs by using iced
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [vislyhq/stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust
@@ -929,7 +853,6 @@
 - [chaosprint/bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - bytebeat written in rust
 - [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole) - The superconsole crate provides a handler and building blocks for powerful, yet minimally intrusive TUIs.  It is cross platform, supporting Windows 7+, Linux, and MacOS.  Rustaceans who want to create
 - [zesterer/flume](https://github.com/zesterer/flume) - A safe and fast multi-producer, multi-consumer channel.
-- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [pleco-rs/Pleco](https://github.com/pleco-rs/Pleco) - A Rust-based re-write of the Stockfish Chess Engine
 - [adrien-ben/vulkan-tutorial-rs](https://github.com/adrien-ben/vulkan-tutorial-rs) - Vulkan tutorial written in Rust using Ash
 - [maciejhirsz/kobold](https://github.com/maciejhirsz/kobold) - Easy declarative web interfaces.
@@ -939,7 +862,6 @@
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 - [guni1192/cromwell](https://github.com/guni1192/cromwell) - Rust Rootless Container Runntime
 - [ealmloff/sledgehammer](https://github.com/ealmloff/sledgehammer) - 
-- [mozilla/neqo](https://github.com/mozilla/neqo) - Neqo, the Mozilla Firefox implementation of QUIC in Rust
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust) - MessagePack implementation for Rust / msgpack.org[Rust]
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
@@ -981,7 +903,6 @@
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [aclysma/skulpin](https://github.com/aclysma/skulpin) - Skia + Vulkan = Skulpin
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [amoffat/supertag](https://github.com/amoffat/supertag) - A tag-based filesystem
 - [asahilina/gpu-rust-playground](https://github.com/asahilina/gpu-rust-playground) - Experimenting with Rust for GPU driver dev
@@ -1007,7 +928,6 @@
 
 ## Shell 
 
-- [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [dobicinaitis/tailwind-cli-extra](https://github.com/dobicinaitis/tailwind-cli-extra) - Tailwind CSS standalone CLI bundled with daisyUI
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [pedroetb/rsync-incremental-backup](https://github.com/pedroetb/rsync-incremental-backup) - Configurable bash script to send incremental backups of your data to a local or remote target
@@ -1019,7 +939,6 @@
 - [Bastardkb/Splinky](https://github.com/Bastardkb/Splinky) - Pro-Micro/Elite-C replacement with RP2040 and USB-C
 - [BachoSeven/mimi](https://github.com/BachoSeven/mimi) - a better xdg-open - an active fork
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-- [mattmc3/antidote](https://github.com/mattmc3/antidote) - https://antidote.sh - the cure to slow zsh plugin management
 - [zonkyio/embedded-postgres-binaries](https://github.com/zonkyio/embedded-postgres-binaries) - Lightweight bundles of PostgreSQL binaries with reduced size intended for testing purposes.
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [jhuntwork/merelinux](https://github.com/jhuntwork/merelinux) - A lightweight Linux distribution using musl libc, pacman and s6
@@ -1056,45 +975,11 @@
 
 ## TypeScript 
 
-- [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
-- [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
-- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
-- [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
-- [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an open-source library of UI components. Under the hood, it uses UIkit 3 and extended with LitElement. The design is based on shadcn/ui.
-- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-- [lukeed/tschema](https://github.com/lukeed/tschema) - A tiny (500b) utility to build JSON schema types.
-- [MasterKale/SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.
-- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
-- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
-- [cifkao/html-midi-player](https://github.com/cifkao/html-midi-player) - 🎹 Play and display MIDI files on the web
-- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
-- [milesj/emojibase](https://github.com/milesj/emojibase) - 🎮 A collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
-- [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
-- [runtypes/runtypes](https://github.com/runtypes/runtypes) - Runtime validation for static types
-- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-- [rossrobino/drab](https://github.com/rossrobino/drab) - Interactivity for You
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
-- [jeb5/Sidetabs](https://github.com/jeb5/Sidetabs) - Because tabs should be vertical
-- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
-- [PeterTYLiu/toaster](https://github.com/PeterTYLiu/toaster) - 3D editor for modelling in pure CSS+HTML; no canvas, no WebGL
-- [macheteHot/unocss-preset-scalpel](https://github.com/macheteHot/unocss-preset-scalpel) - 
-- [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
-- [Krutsch/hydro-js](https://github.com/Krutsch/hydro-js) - A lightweight (5K compressed) reactive UI library via template literal tags.
-- [luisherranz/deepsignal](https://github.com/luisherranz/deepsignal) - DeepSignal 🧶 - Preact signals, but using regular JavaScript objects
-- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [jontze/action-mdbook](https://github.com/jontze/action-mdbook) - A GitHub Action that installs mdBook on a GitHub Runner and supports various plugins like linkcheck, mermaid, toc, open-on-gh, admonish, and katex for enhanced functionality.
-- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [mhonert/chess](https://github.com/mhonert/chess) - :sushi: Wasabi Chess Engine - written in AssemblyScript
 
 ## Vim Script 
 
@@ -1105,13 +990,7 @@
 
 ## Vue 
 
-- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-
-## Zig 
-
-- [jcalabro/uscope](https://github.com/jcalabro/uscope) - μscope 🔬
-- [Vexu/arocc](https://github.com/Vexu/arocc) - A modern fully featured C compiler.
 
 
 ## License
