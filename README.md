@@ -480,7 +480,6 @@
 
 ## Others 
 
-- [braid-org/braid-spec](https://github.com/braid-org/braid-spec) - Working area for Braid extensions to HTTP
 - [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - 📊 Software and Libraries for Authentication & Authorization & SSO & IAM
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [amanbolat/awesome-go-with-stars](https://github.com/amanbolat/awesome-go-with-stars) - Awesome-go list with stars. Automatically updated.
