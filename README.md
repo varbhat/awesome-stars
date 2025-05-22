@@ -27,6 +27,7 @@
 - [Meson](#meson)
 - [Nix](#nix)
 - [Others](#others)
+- [PLpgSQL](#plpgsql)
 - [PowerShell](#powershell)
 - [Prolog](#prolog)
 - [Python](#python)
@@ -193,6 +194,7 @@
 - [PeterDaveHello/tor-socks-proxy](https://github.com/PeterDaveHello/tor-socks-proxy) - 🐳 Tiny Docker image (🤏 10MB) as 🧅 Tor SOCKS5 proxy 🛡
 - [MIvanchev/static-wine32](https://github.com/MIvanchev/static-wine32) - A Docker recipe for building a statically compiled 32-bit Wine for x86_64
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates.
+- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs Win64 and Win32 applications on arm64 Linux
 - [kizzx2/docker-wireguard-socks-proxy](https://github.com/kizzx2/docker-wireguard-socks-proxy) - Expose a WireGuard tunnel as a SOCKS5 proxy
 
@@ -476,7 +478,6 @@
 ## Nix 
 
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
-- [kixelated/moq-rs](https://github.com/kixelated/moq-rs) - Rust library for Media over QUIC
 
 ## Others 
 
@@ -579,6 +580,10 @@
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
+## PLpgSQL 
+
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+
 ## PowerShell 
 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
@@ -615,7 +620,7 @@
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
+- [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
 - [isd-project/isd](https://github.com/isd-project/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
@@ -644,7 +649,6 @@
 - [higlass/simple-httpfs](https://github.com/higlass/simple-httpfs) - 
 - [3digitdev/Haiku-TTP-Codes](https://github.com/3digitdev/Haiku-TTP-Codes) - HTTP Status Codes with Haikus for messages
 - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner's guide to eBPF
-- [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
@@ -748,6 +752,7 @@
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
+- [kixelated/moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC
 - [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous) - A xdg-desktop-portal for wlroots based compositors implementing zwlr_screencopy. Written by @decodetalkers
 - [mcy/0x](https://github.com/mcy/0x) - `0x` - like `xxd` but colorful!
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
