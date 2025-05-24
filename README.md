@@ -135,6 +135,8 @@
 
 ## C++ 
 
+- [gta-reversed/gta-reversed](https://github.com/gta-reversed/gta-reversed) - Reimplementation of GTA:SA 1.0 US
+- [wiredopposite/OGX-Mini](https://github.com/wiredopposite/OGX-Mini) - RP2040 & RP2350 USB gamepad emulation for multiple platforms.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -895,7 +897,7 @@
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [SixArm/rust-quick-guide](https://github.com/SixArm/rust-quick-guide) - Rust Quick Guide provides short introductions to many Rust programming topics, including the language, ecosystem, concepts, crates, and more.
 - [lopukhov/unbox](https://github.com/lopukhov/unbox) - Unshare a toolbox
-- [spider-rs/spider](https://github.com/spider-rs/spider) - A web crawler and scraper for Rust
+- [spider-rs/spider](https://github.com/spider-rs/spider) - A web crawler, scraper, and automation framework for Rust
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
@@ -942,10 +944,9 @@
 - [servo/pathfinder](https://github.com/servo/pathfinder) - A fast, practical GPU rasterizer for fonts and vector graphics
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [RalfJung/rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language
-- [bus1/r-linux](https://github.com/bus1/r-linux) - Capability-based Linux Runtime
 - [julianbuettner/tcp-over-http](https://github.com/julianbuettner/tcp-over-http) - A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
-- [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
+- [yujqiao/catp](https://github.com/yujqiao/catp) - Print the output of a running process
 - [zip-rs/zip-old](https://github.com/zip-rs/zip-old) - Zip implementation in Rust
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
 - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Rust Bindings for the Skia Graphics Library
