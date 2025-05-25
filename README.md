@@ -383,6 +383,7 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Locality of Behavior.  Use one element or arrays transparently. Pairs with htmx. Vanilla querySelector() but better!
 - [dy/sprae](https://github.com/dy/sprae) - ∴ DOM tree microhydration
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [developit/vhtml](https://github.com/developit/vhtml) - Render JSX/Hyperscript to HTML strings, without VDOM 🌈
 - [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
@@ -487,7 +488,6 @@
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [amanbolat/awesome-go-with-stars](https://github.com/amanbolat/awesome-go-with-stars) - Awesome-go list with stars. Automatically updated.
 - [fnwiya/japanese-rust-companies](https://github.com/fnwiya/japanese-rust-companies) - 日本で Rust を利用している会社一覧
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 - [adept-anyball/mod](https://github.com/adept-anyball/mod) - Trackball mod
 - [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
@@ -897,7 +897,7 @@
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 - [SixArm/rust-quick-guide](https://github.com/SixArm/rust-quick-guide) - Rust Quick Guide provides short introductions to many Rust programming topics, including the language, ecosystem, concepts, crates, and more.
 - [lopukhov/unbox](https://github.com/lopukhov/unbox) - Unshare a toolbox
-- [spider-rs/spider](https://github.com/spider-rs/spider) - A web crawler, scraper, and automation framework for Rust
+- [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler, scraper, and automation framework for Rust
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
