@@ -53,6 +53,7 @@
 
 ## C 
 
+- [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
 - [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [joeycastillo/Sensor-Watch](https://github.com/joeycastillo/Sensor-Watch) - A board replacement for the classic Casio F-91W wristwatch
