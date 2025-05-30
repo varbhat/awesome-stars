@@ -54,6 +54,7 @@
 
 ## C 
 
+- [r58Playz/FNA-WASM-Build](https://github.com/r58Playz/FNA-WASM-Build) - Repo for building the FNA WASM libraries. (`-pthread`)
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
 - [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
@@ -1012,6 +1013,7 @@
 
 ## TypeScript 
 
+- [MercuryWorkshop/terraria-wasm](https://github.com/MercuryWorkshop/terraria-wasm) - Terraria ported to the browser with WebAssembly
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source) - A better API for making Event Source requests, with all the features of fetch()
