@@ -205,6 +205,7 @@
 
 ## Go 
 
+- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus is a powerful platform designed to simplify VPS management.
 - [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A ledger implementation in PostgreSQL
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
@@ -302,7 +303,7 @@
 - [kevmo314/codec-from-scratch](https://github.com/kevmo314/codec-from-scratch) - Build a simple video encoder from scratch
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [libui-ng/golang-ui](https://github.com/libui-ng/golang-ui) - Platform-native GUI library for Go. "libui for the next generation"
-- [antchfx/xpath](https://github.com/antchfx/xpath) - XPath package for Go, supports HTML, XML, JSON document query and more
+- [antchfx/xpath](https://github.com/antchfx/xpath) - XPath package for golang, supports HTML, XML, JSON document query and more
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [go-chi/httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities built on "log/slog" package
@@ -954,7 +955,7 @@
 - [RalfJung/rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language
 - [julianbuettner/tcp-over-http](https://github.com/julianbuettner/tcp-over-http) - A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
-- [yujqiao/catp](https://github.com/yujqiao/catp) - Print the output of a running process
+- [yujqiao/catproc](https://github.com/yujqiao/catproc) - Print the output of a running process
 - [zip-rs/zip-old](https://github.com/zip-rs/zip-old) - Zip implementation in Rust
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
 - [rust-skia/rust-skia](https://github.com/rust-skia/rust-skia) - Rust Bindings for the Skia Graphics Library
