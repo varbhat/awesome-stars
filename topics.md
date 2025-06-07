@@ -549,7 +549,7 @@
 
 ## deployment 
 
-- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus is a powerful platform designed to simplify VPS management.
+- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus streamlines your entire server workflow - ServerOps with no fuss
 
 ## design 
 
@@ -566,6 +566,7 @@
 
 ## devops 
 
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [rezible/rezible](https://github.com/rezible/rezible) - Mission Control for Oncall Teams
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -792,7 +793,7 @@
 
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [rezible/rezible](https://github.com/rezible/rezible) - Mission Control for Oncall Teams
-- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus is a powerful platform designed to simplify VPS management.
+- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus streamlines your entire server workflow - ServerOps with no fuss
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [cerbos/cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policie
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -1187,6 +1188,7 @@
 
 ## markdown 
 
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [matthiasbeyer/mdbook-svgbob2](https://github.com/matthiasbeyer/mdbook-svgbob2) - A preprocessor for mdbook to convert svgbob codeblocks into SVG using svgbob
@@ -1259,7 +1261,7 @@
 ## nextjs 
 
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
-- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus is a powerful platform designed to simplify VPS management.
+- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus streamlines your entire server workflow - ServerOps with no fuss
 - [dy/sprae](https://github.com/dy/sprae) - ∴ DOM tree microhydration
 
 ## nlp 
@@ -1542,7 +1544,7 @@
 - [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide) - Chrome Devtools Protocol rust API
 - [winnow-rs/winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
 - [libui-ng/golang-ui](https://github.com/libui-ng/golang-ui) - Platform-native GUI library for Go. "libui for the next generation"
-- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [stickfigure/blog](https://github.com/stickfigure/blog) - Jeff Schnitzer's Blog
 - [dslm4515/Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc
@@ -2065,7 +2067,7 @@
 
 ## self-hosted 
 
-- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus is a powerful platform designed to simplify VPS management.
+- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus streamlines your entire server workflow - ServerOps with no fuss
 - [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local!
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 
@@ -2149,7 +2151,7 @@
 ## terminal 
 
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus is a powerful platform designed to simplify VPS management.
+- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus streamlines your entire server workflow - ServerOps with no fuss
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs
@@ -2190,7 +2192,7 @@
 ## typescript 
 
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
-- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus is a powerful platform designed to simplify VPS management.
+- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus streamlines your entire server workflow - ServerOps with no fuss
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
