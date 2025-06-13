@@ -356,6 +356,7 @@
 
 ## HTML 
 
+- [framewiki/framewiki.net](https://github.com/framewiki/framewiki.net) - The unofficial community-driven Framework wiki
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
@@ -611,6 +612,7 @@
 
 ## Python 
 
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [LaunchPlatform/bq](https://github.com/LaunchPlatform/bq) - BeanQueue, a lightweight Python task queue framework based on SQLAlchemy, PostgreSQL SKIP LOCKED queries and NOTIFY / LISTEN statements.
 - [nats-io/nats.py](https://github.com/nats-io/nats.py) - Python3 client for NATS
