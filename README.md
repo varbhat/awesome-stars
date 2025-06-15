@@ -35,6 +35,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Sass](#sass)
 - [Shell](#shell)
 - [Starlark](#starlark)
 - [Swift](#swift)
@@ -976,6 +977,10 @@
 ## SCSS 
 
 - [vblanco20-1/vulkan-guide](https://github.com/vblanco20-1/vulkan-guide) - Introductory guide to vulkan.
+
+## Sass 
+
+- [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
 
 ## Shell 
 
