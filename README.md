@@ -209,8 +209,10 @@
 
 ## Go 
 
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
+- [rezible/rezible](https://github.com/rezible/rezible) - Mission Control for Oncall Teams
 - [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Nixopus streamlines your entire server workflow - ServerOps with no fuss
 - [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A ledger implementation in PostgreSQL
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
@@ -695,6 +697,8 @@
 
 ## Rust 
 
+- [harfbuzz/harfrust](https://github.com/harfbuzz/harfrust) - Port of RustyBuzz to use Fontations
+- [oovm/tailwind-rs](https://github.com/oovm/tailwind-rs) - 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
@@ -1044,7 +1048,6 @@
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [mistweaverco/kulala-fmt](https://github.com/mistweaverco/kulala-fmt) - An opinionated 🦄 .http and .rest 🐼 files linter 💄 and  formatter ⚡.
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
-- [rezible/rezible](https://github.com/rezible/rezible) - Mission Control for Oncall Teams
 - [MercuryWorkshop/terraria-wasm](https://github.com/MercuryWorkshop/terraria-wasm) - Terraria ported to the browser with WebAssembly
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
