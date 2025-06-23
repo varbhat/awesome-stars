@@ -712,7 +712,7 @@
 - [zeenix/tomling](https://github.com/zeenix/tomling) - A simple TOML parser Rust crate
 - [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured embeddable key-value storage engine written in Rust
+- [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured, embeddable key-value storage engine written in Rust
 - [dekirisu/deki-rs](https://github.com/dekirisu/deki-rs) - A collection of crates, functions and renames tailored to myself!
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
