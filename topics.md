@@ -1316,6 +1316,7 @@
 
 ## others 
 
+- [awwaiid/gremllm](https://github.com/awwaiid/gremllm) - A slight upgrade to the Gremlins in your code
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [SeyfullahGundogdu/nixos-config](https://github.com/SeyfullahGundogdu/nixos-config) - My personal NixOS Config
 - [pkgforge-dev/Torzu-AppImage](https://github.com/pkgforge-dev/Torzu-AppImage) - Unofficial AppImage of Torzu, with optimized builds for modern cpus. [Maintainer=@Samueru-sama]
@@ -1874,6 +1875,7 @@
 
 ## rust 
 
+- [ElevenJune/serenIT](https://github.com/ElevenJune/serenIT) - Ambient Sound Player in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
