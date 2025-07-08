@@ -141,6 +141,7 @@
 
 ## C++ 
 
+- [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux via DXVK/Vulkan
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [Themaister/pyrofling](https://github.com/Themaister/pyrofling) - PyroFling is a simple solution for capturing Vulkan applications and broadcast video and audio to streaming platforms using FFmpeg.
 - [BenMakesEverything/cyberdeck](https://github.com/BenMakesEverything/cyberdeck) - This contains the 3D files and parts list for my Framework Cyberdeck.
@@ -679,6 +680,7 @@
 
 ## Rust 
 
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [ElevenJune/serenIT](https://github.com/ElevenJune/serenIT) - Ambient Sound Player in Rust
 - [harfbuzz/rustybuzz](https://github.com/harfbuzz/rustybuzz) - A complete harfbuzz's shaping algorithm port to Rust
 - [harfbuzz/harfrust](https://github.com/harfbuzz/harfrust) - HarfBuzz port to Rust
