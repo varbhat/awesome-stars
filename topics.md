@@ -1572,7 +1572,7 @@
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates.
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
-- [cooklang/spec](https://github.com/cooklang/spec) - Home for Cooklang specification and general discussions about the ecosystem
+- [cooklang/spec](https://github.com/cooklang/spec) - Home for Cooklang specification and general discussions about the ecosystem. Playground https://cooklang.github.io/cooklang-rs/
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is a convenient, simple and modern gpu abstraction built on vulkan
 - [mardix/litedom](https://github.com/mardix/litedom) - A reactive Web Component library to create Custom Element and turns any HTML sections into components
@@ -1878,7 +1878,7 @@
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [ElevenJune/serenIT](https://github.com/ElevenJune/serenIT) - Ambient Sound Player in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
+- [ranile/gloo](https://github.com/ranile/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [SUPERCILEX/fuc](https://github.com/SUPERCILEX/fuc) - Modern, performance focused unix commands
@@ -2206,7 +2206,7 @@
 
 ## web 
 
-- [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
+- [ranile/gloo](https://github.com/ranile/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
