@@ -686,7 +686,7 @@
 - [harfbuzz/harfrust](https://github.com/harfbuzz/harfrust) - HarfBuzz port to Rust
 - [oovm/tailwind-rs](https://github.com/oovm/tailwind-rs) - 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [rustwasm/gloo](https://github.com/rustwasm/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
+- [ranile/gloo](https://github.com/ranile/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
