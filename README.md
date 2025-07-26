@@ -141,7 +141,7 @@
 
 ## C++ 
 
-- [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux via DXVK/Vulkan
+- [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [Themaister/pyrofling](https://github.com/Themaister/pyrofling) - PyroFling is a simple solution for capturing Vulkan applications and broadcast video and audio to streaming platforms using FFmpeg.
 - [BenMakesEverything/cyberdeck](https://github.com/BenMakesEverything/cyberdeck) - This contains the 3D files and parts list for my Framework Cyberdeck.
@@ -259,7 +259,7 @@
 - [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library of iterators to augment the standard library
 - [aarondl/authboss](https://github.com/aarondl/authboss) - The boss of http auth.
 - [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
-- [numtide/treefmt](https://github.com/numtide/treefmt) - one CLI to format your repo [maintainers=@zimbatm,@brianmcgee]
+- [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing...
 - [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
