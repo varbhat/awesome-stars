@@ -141,6 +141,7 @@
 
 ## C++ 
 
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
 - [Themaister/pyrofling](https://github.com/Themaister/pyrofling) - PyroFling is a simple solution for capturing Vulkan applications and broadcast video and audio to streaming platforms using FFmpeg.
