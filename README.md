@@ -245,7 +245,7 @@
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [santhosh-tekuri/jsonschema](https://github.com/santhosh-tekuri/jsonschema) - JSONSchema (draft 2020-12, draft 2019-09, draft-7, draft-6, draft-4) Validation using Go
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
-- [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - Webauthn/FIDO2 library in golang
+- [go-webauthn/webauthn](https://github.com/go-webauthn/webauthn) - FIDO2 Conformant WebAuthn and Passkey backend library for golang
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
