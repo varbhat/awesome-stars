@@ -547,6 +547,7 @@
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [achou11/no-virtual-dom](https://github.com/achou11/no-virtual-dom) - A list of JavaScript frameworks or rendering libraries that don't use a virtual DOM.
+- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [imaurer/awesome-llm-json](https://github.com/imaurer/awesome-llm-json) - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
 - [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [plabayo/learn-rust-101](https://github.com/plabayo/learn-rust-101) - A guide to aid you in your journey of becoming a Rustacean (Rust developer).
@@ -684,6 +685,7 @@
 
 ## Rust 
 
+- [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
@@ -897,7 +899,6 @@
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
 - [JojiiOfficial/rsv](https://github.com/JojiiOfficial/rsv) - The runit sv command rewritten in rust with additional features
 - [Alonely0/Lariv](https://github.com/Alonely0/Lariv) - Linked Atomic Random Insert Vector: a thread-safe, self-memory-managed vector with no guaranteed sequential insert.
-- [bincode-org/bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 - [balliegojr/simple-dns](https://github.com/balliegojr/simple-dns) - Simple DNS written in Rust
 - [dylanmckay/mdns](https://github.com/dylanmckay/mdns) - A multicast DNS client in Rust
 - [chaosprint/bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - bytebeat written in rust
