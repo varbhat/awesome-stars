@@ -88,7 +88,6 @@
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [martanne/abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. 
 - [rhboot/efibootmgr](https://github.com/rhboot/efibootmgr) - efibootmgr development tree
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [chimera-linux/sd-tools](https://github.com/chimera-linux/sd-tools) - Standalone, cleaned up utilities from systemd
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
@@ -141,6 +140,7 @@
 
 ## C++ 
 
+- [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core m
 - [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [PancakeTAS/lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
@@ -362,6 +362,7 @@
 
 ## HTML 
 
+- [bartbussmann/lesswrong_ebook_library](https://github.com/bartbussmann/lesswrong_ebook_library) - LessWrong Ebook Library
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [framewiki/framewiki.net](https://github.com/framewiki/framewiki.net) - The unofficial community-driven Framework wiki
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
@@ -528,6 +529,7 @@
 - [func25/go-practical-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [illiliti/respectful-software](https://github.com/illiliti/respectful-software) - Is your software respectful to its community?
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [edent/Dynamic-SVG-Calendar-Icon](https://github.com/edent/Dynamic-SVG-Calendar-Icon) - Here it is, an SVG calendar which always display's today's date.
