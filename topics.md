@@ -67,6 +67,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [go](#go)
 - [godot](#godot)
@@ -705,6 +706,12 @@
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
+
+## gaming 
+
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
+- [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
+- [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 
 ## git 
 
