@@ -516,6 +516,7 @@
 
 ## database 
 
+- [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
@@ -1910,6 +1911,7 @@
 
 ## rust 
 
+- [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
@@ -2135,6 +2137,7 @@
 
 ## sqlite 
 
+- [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
