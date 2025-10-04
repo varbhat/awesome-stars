@@ -143,6 +143,7 @@
 
 ## C++ 
 
+- [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core m
 - [mkiol/dsnote](https://github.com/mkiol/dsnote) - Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -400,6 +401,7 @@
 
 ## JavaScript 
 
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -746,7 +748,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured, embeddable key-value storage engine written in Rust
 - [dekirisu/deki-rs](https://github.com/dekirisu/deki-rs) - A collection of crates, functions and renames tailored to myself!
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [vorner/signal-hook](https://github.com/vorner/signal-hook) - Rust library allowing to register multiple handlers for the same signal
