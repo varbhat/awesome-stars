@@ -55,6 +55,7 @@
 
 ## C 
 
+- [dawsers/scroll](https://github.com/dawsers/scroll) - i3-compatible Wayland compositor (sway) with a PaperWM layout like niri or hyprscroller
 - [cellos51/balatro-gba](https://github.com/cellos51/balatro-gba) - 
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [LIJI32/SameBoy](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C
@@ -622,6 +623,7 @@
 
 ## Python 
 
+- [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) - On-device TTS model by Neuphonic
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
@@ -707,6 +709,8 @@
 
 ## Rust 
 
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
+- [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [Stremio/stremio-linux-shell](https://github.com/Stremio/stremio-linux-shell) - Client for Stremio on Linux
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
