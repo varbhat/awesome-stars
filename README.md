@@ -171,7 +171,7 @@
 - [akawashiro/sloader](https://github.com/akawashiro/sloader) - sloader is an ELF loader which aims to replace ld-linux.so of glibc.
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of SuperTuxKart
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
@@ -418,6 +418,8 @@
 
 ## JavaScript 
 
+- [vnglst/onsland](https://github.com/vnglst/onsland) - A visualization to show how we use our land in the EU.
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
@@ -728,6 +730,7 @@
 
 ## Rust 
 
+- [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust
 - [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
 - [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
