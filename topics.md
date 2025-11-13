@@ -1464,6 +1464,7 @@
 
 ## others 
 
+- [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - A next-generation container filesystem
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [mishnit/mishnit.github.io](https://github.com/mishnit/mishnit.github.io) - My Blog - CORPOR8
@@ -1870,7 +1871,7 @@
 - [HumbleUI/SkiaBuild](https://github.com/HumbleUI/SkiaBuild) - CI repo for building Skia as a shared library
 - [JetBrains/skia-build](https://github.com/JetBrains/skia-build) - 
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [AdelKS/LinuxGamingGuide](https://github.com/AdelKS/LinuxGamingGuide) - Linux Gaming Guide - An incomplete compilation of things I came across that may improve your gaming experience on Linux
+- [AdelKS/LinuxGamingGuide](https://github.com/AdelKS/LinuxGamingGuide) - An incomplete compilation of things that may improve your gaming experience on Linux
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [koverstreet/bcachefs](https://github.com/koverstreet/bcachefs) - 
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
