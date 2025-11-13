@@ -745,6 +745,7 @@
 
 ## Rust 
 
+- [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - A next-generation container filesystem
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [ehsanmok/create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust) - Create your own programming language with Rust
 - [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
@@ -1090,7 +1091,7 @@
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [git-duet/git-duet](https://github.com/git-duet/git-duet) - Support for pairing with git
 - [learnbyexample/command_help](https://github.com/learnbyexample/command_help) - :information_source: Extract help text from builtin commands and man pages
-- [AdelKS/LinuxGamingGuide](https://github.com/AdelKS/LinuxGamingGuide) - Linux Gaming Guide - An incomplete compilation of things I came across that may improve your gaming experience on Linux
+- [AdelKS/LinuxGamingGuide](https://github.com/AdelKS/LinuxGamingGuide) - An incomplete compilation of things that may improve your gaming experience on Linux
 
 ## Starlark 
 
