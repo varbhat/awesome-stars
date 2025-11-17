@@ -1443,6 +1443,8 @@
 
 ## others 
 
+- [valdezm/awesome-communication](https://github.com/valdezm/awesome-communication) - A list of resources that I have found to help improve soft-skills with a emphasis on communication. Be an effective Technologist, holistically.
+- [Jareechang/awesome-technical-leadership-and-career-resources](https://github.com/Jareechang/awesome-technical-leadership-and-career-resources) - Articles related technical leadership or career growth
 - [DorukKorkmaz/soft-skills](https://github.com/DorukKorkmaz/soft-skills) - Summary of the book Soft Skills: The software developer's life manual by John Sonmez
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [project-machine/puzzlefs](https://github.com/project-machine/puzzlefs) - A next-generation container filesystem
