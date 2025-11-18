@@ -777,6 +777,7 @@
 
 ## games 
 
+- [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) - RetroDECK is a powerful all-in-one retro gaming platform designed for handheld gaming PCs like the Steam Deck, full Linux desktops, Linux HTPC setups, and Linux-based PC consoles such as the Steam Mac
 - [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -784,6 +785,7 @@
 
 ## gaming 
 
+- [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) - RetroDECK is a powerful all-in-one retro gaming platform designed for handheld gaming PCs like the Steam Deck, full Linux desktops, Linux HTPC setups, and Linux-based PC consoles such as the Steam Mac
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
@@ -1483,7 +1485,6 @@
 - [pkgforge-dev/Torzu-AppImage](https://github.com/pkgforge-dev/Torzu-AppImage) - Unofficial AppImage of Torzu, with optimized builds for modern cpus. [Maintainer=@Samueru-sama]
 - [apicalshark/t072u-flatpak-remote](https://github.com/apicalshark/t072u-flatpak-remote) - flatpak remote for a certain software
 - [apicalshark/flatpak-remote](https://github.com/apicalshark/flatpak-remote) - Template for creating a Flatpak remote using GitHub Actions
-- [RetroDECK/RetroDECK](https://github.com/RetroDECK/RetroDECK) - RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
 - [harfbuzz/rustybuzz](https://github.com/harfbuzz/rustybuzz) - A complete harfbuzz's shaping algorithm port to Rust
 - [Themaister/pyrofling](https://github.com/Themaister/pyrofling) - PyroFling is a simple solution for capturing Vulkan applications and broadcast video and audio to streaming platforms using FFmpeg.
 - [harfbuzz/harfrust](https://github.com/harfbuzz/harfrust) - HarfBuzz port to Rust
