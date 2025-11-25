@@ -815,6 +815,7 @@
 
 ## go 
 
+- [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
@@ -1743,7 +1744,7 @@
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [cooklang/spec](https://github.com/cooklang/spec) - Home for language specification and discussions.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
-- [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is a convenient, simple and modern gpu abstraction built on vulkan
+- [Ipotrick/Daxa](https://github.com/Ipotrick/Daxa) - Daxa is a convenient, simple and modern gpu api built on vulkan
 - [mardix/litedom](https://github.com/mardix/litedom) - A reactive Web Component library to create Custom Element and turns any HTML sections into components
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [3digitdev/Haiku-TTP-Codes](https://github.com/3digitdev/Haiku-TTP-Codes) - HTTP Status Codes with Haikus for messages
