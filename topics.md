@@ -83,6 +83,7 @@
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
@@ -971,6 +972,20 @@
 
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 
+## gui 
+
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+- [Harzu/iced_term](https://github.com/Harzu/iced_term) - Terminal emulator widget powered by ICED framework and alacritty terminal backend.
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
+- [khonsulabs/cushy](https://github.com/khonsulabs/cushy) - An experimental cross-platform graphical user interface (GUI) crate for Rust.
+- [Joylei/plotters-iced](https://github.com/Joylei/plotters-iced) - :chart_with_upwards_trend: Iced backend for Plotters
+- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
+- [wojciech-graj/oriel](https://github.com/wojciech-graj/oriel) - An interpreter for the 1991 Oriel scripting language
+- [MaarifaMaarifa/series-troxide](https://github.com/MaarifaMaarifa/series-troxide) - A Simple and Modern Series Tracker
+- [AlisCode/iced-pancurses](https://github.com/AlisCode/iced-pancurses) - Pancurses-based renderer for Iced (WIP)
+- [eduidl/iced-7-guis](https://github.com/eduidl/iced-7-guis) - WIP: Implementation of 7GUIs by using iced
+
 ## hacking 
 
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
@@ -985,7 +1000,6 @@
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
