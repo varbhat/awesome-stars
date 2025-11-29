@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -197,6 +198,11 @@
 ## 3d 
 
 - [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
+
+## agent 
+
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 
 ## ai 
 
@@ -1497,6 +1503,9 @@
 
 ## others 
 
+- [AsahiRocks/scroll-flake](https://github.com/AsahiRocks/scroll-flake) - Nix flake for the scroll window manager (based on Sway)
+- [vimjoyer/nixconf](https://github.com/vimjoyer/nixconf) - 
+- [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [patrickjquinn/Marathon-Shell](https://github.com/patrickjquinn/Marathon-Shell) - The UI/UX layer for the Marathon OS
 - [nlpfromscratch/nlp-llms-resources](https://github.com/nlpfromscratch/nlp-llms-resources) - Master list of curated resources on NLP and LLMs
@@ -2117,6 +2126,7 @@
 
 ## rust 
 
+- [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
 - [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
