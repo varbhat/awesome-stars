@@ -426,7 +426,6 @@
 - [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [dy/sprae](https://github.com/dy/sprae) - Signals-based hydration for HTML/JSX tree
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [developit/vhtml](https://github.com/developit/vhtml) - Render JSX/Hyperscript to HTML strings, without VDOM 🌈
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
@@ -443,7 +442,6 @@
 - [mardix/litedom](https://github.com/mardix/litedom) - A reactive Web Component library to create Custom Element and turns any HTML sections into components
 - [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv) - A super tiny reactive library. :zap:
 - [storeon/router](https://github.com/storeon/router) - Storeon module for URL routing
-- [Marcisbee/radi](https://github.com/Marcisbee/radi) - 🌀Tiny (in size) front-end framework with no extra browser re-flows
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [codebicycle/videospeed](https://github.com/codebicycle/videospeed) - HTML5 video speed controller (for Firefox). WebExtensions port of Video Speed Controller Chrome extension.
@@ -738,6 +736,7 @@
 
 ## Roff 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 
 ## Ruby 
@@ -1126,6 +1125,7 @@
 - [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source) - A better API for making Event Source requests, with all the features of fetch()
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
+- [Marcisbee/radi](https://github.com/Marcisbee/radi) - 🌀Tiny (in size) front-end framework with no extra browser re-flows
 
 ## Vim Script 
 
