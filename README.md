@@ -520,6 +520,7 @@
 
 ## Nix 
 
+- [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [AsahiRocks/scroll-flake](https://github.com/AsahiRocks/scroll-flake) - Nix flake for the scroll window manager (based on Sway)
 - [vimjoyer/nixconf](https://github.com/vimjoyer/nixconf) - 
 - [SeyfullahGundogdu/nixos-config](https://github.com/SeyfullahGundogdu/nixos-config) - My personal NixOS Config
