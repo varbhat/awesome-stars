@@ -520,6 +520,8 @@
 
 ## Nix 
 
+- [viperML/wrapper-manager](https://github.com/viperML/wrapper-manager) - Post-modern configuration management
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [AsahiRocks/scroll-flake](https://github.com/AsahiRocks/scroll-flake) - Nix flake for the scroll window manager (based on Sway)
@@ -754,6 +756,7 @@
 
 ## Rust 
 
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
@@ -861,7 +864,7 @@
 - [wayland-transpositor/wprs](https://github.com/wayland-transpositor/wprs) - 
 - [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images)
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
-- [kixelated/moq](https://github.com/kixelated/moq) - Media over QUIC library in Rust+Typescript
+- [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC library in Rust+Typescript
 - [waycrate/xdg-desktop-portal-luminous](https://github.com/waycrate/xdg-desktop-portal-luminous) - A xdg-desktop-portal for wlroots based compositors implementing zwlr_screencopy. Written by @decodetalkers
 - [mcy/0x](https://github.com/mcy/0x) - `0x` - like `xxd` but colorful!
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
