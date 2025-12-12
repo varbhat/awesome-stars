@@ -80,6 +80,7 @@
 - [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -728,6 +729,7 @@
 
 ## dotfiles 
 
+- [varbhat/dotfiles](https://github.com/varbhat/dotfiles) - ❄️ configuration of my systems
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 
 ## dotnet 
@@ -839,6 +841,12 @@
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
+
+## generative-ai 
+
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ## git 
 
@@ -1526,7 +1534,7 @@
 - [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [patrickjquinn/Marathon-Shell](https://github.com/patrickjquinn/Marathon-Shell) - The UI/UX layer for the Marathon OS
 - [nlpfromscratch/nlp-llms-resources](https://github.com/nlpfromscratch/nlp-llms-resources) - Master list of curated resources on NLP and LLMs
-- [adilarshidin/it-company-contacts](https://github.com/adilarshidin/it-company-contacts) - The complete (as far as it is possible) list of it companies' addresses.
+- [adilarshidin/it-company-contacts](https://github.com/adilarshidin/it-company-contacts) - The complete (as far as it is possible) list of it companies' and recruitment agencies emails.
 - [valdezm/awesome-communication](https://github.com/valdezm/awesome-communication) - A list of resources that I have found to help improve soft-skills with a emphasis on communication. Be an effective Technologist, holistically.
 - [Jareechang/awesome-technical-leadership-and-career-resources](https://github.com/Jareechang/awesome-technical-leadership-and-career-resources) - Articles related technical leadership or career growth
 - [DorukKorkmaz/soft-skills](https://github.com/DorukKorkmaz/soft-skills) - Summary of the book Soft Skills: The software developer's life manual by John Sonmez
