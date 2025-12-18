@@ -285,7 +285,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
 - [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library of iterators to augment the standard library
 - [aarondl/authboss](https://github.com/aarondl/authboss) - The boss of http auth.
 - [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
