@@ -425,6 +425,8 @@
 
 ## JavaScript 
 
+- [OpenTaal/opentaal-wordlist](https://github.com/OpenTaal/opentaal-wordlist) - 🇳🇱🇧🇪🇸🇷 Dutch word list by OpenTaal
+- [supermarkt/checkjebon](https://github.com/supermarkt/checkjebon) - Dutch supermarket prices and comparison tool
 - [projectfluent/fluent](https://github.com/projectfluent/fluent) - Fluent — planning, spec and documentation
 - [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm) - WebAssembly (Wasm) arch support for the Linux kernel
@@ -535,6 +537,9 @@
 
 ## Others 
 
+- [bzdgn/dutch-grammar-for-english-speakers](https://github.com/bzdgn/dutch-grammar-for-english-speakers) - Dutch grammer for english speakers, expats living in Netherlands.
+- [bzdgn/technical-dutch-for-software-developers](https://github.com/bzdgn/technical-dutch-for-software-developers) - Technical Dutch including Vocabulary and Example Phrases for Software Developers
+- [bzdgn/dutch-vocabulary](https://github.com/bzdgn/dutch-vocabulary) - Dutch vocabulary for english learners including verbs, adjectives/adverbs and nouns
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 - [nlpfromscratch/nlp-llms-resources](https://github.com/nlpfromscratch/nlp-llms-resources) - Master list of curated resources on NLP and LLMs
 - [adilarshidin/it-company-contacts](https://github.com/adilarshidin/it-company-contacts) - The complete (as far as it is possible) list of it companies' and recruitment agencies emails.
