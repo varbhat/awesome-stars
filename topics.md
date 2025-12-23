@@ -1550,7 +1550,7 @@
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [sjcobb2022/nixos-config](https://github.com/sjcobb2022/nixos-config) - NixOS configuration files. WIP.
 - [ublue-os/bazzite-arch](https://github.com/ublue-os/bazzite-arch) - A ready-to-game Arch Linux based OCI designed for use exclusively in distrobox.
-- [AsahiRocks/scroll-flake](https://github.com/AsahiRocks/scroll-flake) - Nix flake for the scroll window manager (based on Sway)
+- [AsahiRocks/scroll-flake](https://github.com/AsahiRocks/scroll-flake) - Nix flake for the scroll Wayland compositor (based off from Sway)
 - [vimjoyer/nixconf](https://github.com/vimjoyer/nixconf) - 
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
@@ -1622,7 +1622,7 @@
 - [egoodhall/nrpc](https://github.com/egoodhall/nrpc) - Golang code generator for NATS-backed RPC services
 - [fnwiya/japanese-rust-companies](https://github.com/fnwiya/japanese-rust-companies) - 日本で Rust を利用している会社一覧
 - [bigskysoftware/fixi](https://github.com/bigskysoftware/fixi) - 
-- [dy/sprae](https://github.com/dy/sprae) - Signals-based hydration for HTML/JSX tree
+- [dy/sprae](https://github.com/dy/sprae) - Reactive sprinkles for HTML/JSX
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [iced-rs/comet](https://github.com/iced-rs/comet) - Your favorite tool for inspecting and debugging iced applications. Built with iced!
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
