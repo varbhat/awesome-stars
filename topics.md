@@ -393,6 +393,7 @@
 
 ## bash 
 
+- [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course) - :notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
@@ -1539,6 +1540,7 @@
 
 ## others 
 
+- [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans
 - [bzdgn/dutch-grammar-for-english-speakers](https://github.com/bzdgn/dutch-grammar-for-english-speakers) - Dutch grammer for english speakers, expats living in Netherlands.
 - [bzdgn/technical-dutch-for-software-developers](https://github.com/bzdgn/technical-dutch-for-software-developers) - Technical Dutch including Vocabulary and Example Phrases for Software Developers
 - [bzdgn/dutch-vocabulary](https://github.com/bzdgn/dutch-vocabulary) - Dutch vocabulary for english learners including verbs, adjectives/adverbs and nouns
@@ -2182,6 +2184,7 @@
 
 ## rust 
 
+- [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [sergi0g/cup](https://github.com/sergi0g/cup) - 🥤Docker container updates made easy
@@ -2392,6 +2395,7 @@
 
 ## shell 
 
+- [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [MrPicklePinosaur/shrs](https://github.com/MrPicklePinosaur/shrs) - The rusty shell toolkit for hackers
