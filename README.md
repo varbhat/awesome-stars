@@ -182,6 +182,7 @@
 
 ## Go 
 
+- [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
 - [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -372,6 +373,7 @@
 
 ## Nix 
 
+- [matchai/dotfiles](https://github.com/matchai/dotfiles) - 💻 Public repo for my personal dotfiles
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [benxiao/machines-in-flakes](https://github.com/benxiao/machines-in-flakes) - 
 - [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
@@ -390,6 +392,7 @@
 
 ## Others 
 
+- [kkatano/bakeneko-65](https://github.com/kkatano/bakeneko-65) - A simple 65% keyboard
 - [bzdgn/dutch-grammar-for-english-speakers](https://github.com/bzdgn/dutch-grammar-for-english-speakers) - Dutch grammer for english speakers, expats living in Netherlands.
 - [bzdgn/technical-dutch-for-software-developers](https://github.com/bzdgn/technical-dutch-for-software-developers) - Technical Dutch including Vocabulary and Example Phrases for Software Developers
 - [bzdgn/dutch-vocabulary](https://github.com/bzdgn/dutch-vocabulary) - Dutch vocabulary for english learners including verbs, adjectives/adverbs and nouns
@@ -585,6 +588,8 @@
 
 ## Rust 
 
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
