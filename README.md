@@ -122,7 +122,6 @@
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [pgRouting/pgrouting](https://github.com/pgRouting/pgrouting) - Repository contains pgRouting library. Development branch is "develop", stable branch is "master"
-- [games-on-whales/wolf](https://github.com/games-on-whales/wolf) - Stream virtual desktops and games running in Docker
 - [amroibrahim/DIYDoom](https://github.com/amroibrahim/DIYDoom) - An attempt to understand how DOOM engine works
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [badgeek/svg2shenzhen](https://github.com/badgeek/svg2shenzhen) - Convert Inkscape SVG drawings to KiCad PCB and footprint modules
@@ -343,6 +342,8 @@
 
 ## Kotlin 
 
+- [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
+- [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
 - [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
@@ -372,6 +373,7 @@
 
 ## Nix 
 
+- [SeniorMatt/Matthew-s-NixOS](https://github.com/SeniorMatt/Matthew-s-NixOS) - My NixOS configuration
 - [smravec/nixos-config](https://github.com/smravec/nixos-config) - Minimalistic Sway rice + NixOS
 - [matchai/dotfiles](https://github.com/matchai/dotfiles) - 💻 Public repo for my personal dotfiles
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
@@ -656,7 +658,7 @@
 - [Harzu/iced_term](https://github.com/Harzu/iced_term) - Terminal emulator widget powered by ICED framework and alacritty terminal backend.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
+- [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [adam-mcdaniel/dune](https://github.com/adam-mcdaniel/dune) - A shell🐚 by the beach🏖️!
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
