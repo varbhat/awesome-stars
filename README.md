@@ -14,6 +14,7 @@
 - [Cuda](#cuda)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Gherkin](#gherkin)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -33,9 +34,11 @@
 - [Roff](#roff)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 
 ## Assembly 
 
@@ -180,8 +183,13 @@
 - [clux/muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs Win64 and Win32 applications on arm64 Linux
 
+## Gherkin 
+
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
+
 ## Go 
 
+- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary.
 - [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
 - [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans
 - [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
@@ -296,6 +304,7 @@
 
 ## JavaScript 
 
+- [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [aqt/webext-popup](https://github.com/aqt/webext-popup) - Simple Web Extension to open a page with minimal browser ui
 - [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [varbhat/userscripts](https://github.com/varbhat/userscripts) - 🐒 Violentmonkey userscripts
@@ -398,6 +407,10 @@
 
 ## Others 
 
+- [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+- [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
+- [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [Vuizur/awesome-language-learning](https://github.com/Vuizur/awesome-language-learning) - A curated list of amazing projects that help you learn languages.
 - [kkatano/bakeneko-65](https://github.com/kkatano/bakeneko-65) - A simple 65% keyboard
 - [bzdgn/dutch-grammar-for-english-speakers](https://github.com/bzdgn/dutch-grammar-for-english-speakers) - Dutch grammer for english speakers, expats living in Netherlands.
@@ -516,13 +529,14 @@
 
 ## Python 
 
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [mishnit/mishnit.github.io](https://github.com/mishnit/mishnit.github.io) - My Blog - CORPOR8
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [neuphonic/neutts-air](https://github.com/neuphonic/neutts-air) - On-device TTS model by Neuphonic
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [awwaiid/gremllm](https://github.com/awwaiid/gremllm) - A slight upgrade to the Gremlins in your code
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
@@ -906,6 +920,12 @@
 - [learnbyexample/command_help](https://github.com/learnbyexample/command_help) - :information_source: Extract help text from builtin commands and man pages
 - [AdelKS/LinuxGamingGuide](https://github.com/AdelKS/LinuxGamingGuide) - An incomplete compilation of things that may improve your gaming experience on Linux
 
+## Swift 
+
+- [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
+- [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+
 ## TeX 
 
 - [little-book-of/algorithms](https://github.com/little-book-of/algorithms) - Bake a cake with care, follow steps the recipe gives, that’s an algorithm.
@@ -914,6 +934,8 @@
 
 ## TypeScript 
 
+- [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -921,7 +943,6 @@
 - [Nutlope/devtool-angels](https://github.com/Nutlope/devtool-angels) - A site that lists angel investors that invest in devtools
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
@@ -935,6 +956,10 @@
 - [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course) - :notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## Vue 
+
+- [yuhonas/free-exercise-db](https://github.com/yuhonas/free-exercise-db) - Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend
 
 
 ## License
