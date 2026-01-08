@@ -111,6 +111,7 @@
 
 ## C++ 
 
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss) - A SQLite extension for efficient vector search, based on Faiss!
 - [logcabin/logcabin](https://github.com/logcabin/logcabin) - LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core m
@@ -553,7 +554,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
@@ -891,6 +892,7 @@
 
 ## Shell 
 
+- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [ublue-os/toolboxes](https://github.com/ublue-os/toolboxes) - Centralized repository of containers designed for Toolbox/Distrobox
 - [varbhat/nixcfg](https://github.com/varbhat/nixcfg) - ❄️ configuration of my systems
 - [apicalshark/t072u-flatpak-remote](https://github.com/apicalshark/t072u-flatpak-remote) - flatpak remote for a certain software
