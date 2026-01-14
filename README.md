@@ -798,7 +798,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [AlisCode/iced-pancurses](https://github.com/AlisCode/iced-pancurses) - Pancurses-based renderer for Iced (WIP)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-- [nomad/cola](https://github.com/nomad/cola) - 🥤 A text CRDT for real-time collaborative editing
+- [noib3/cola](https://github.com/noib3/cola) - 🥤 A text CRDT for real-time collaborative editing
 - [helix-editor/nucleo](https://github.com/helix-editor/nucleo) - A fast and convenient fuzzy matcher library for rust
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
