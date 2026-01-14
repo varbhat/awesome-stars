@@ -1596,7 +1596,7 @@
 - [higlass/simple-httpfs](https://github.com/higlass/simple-httpfs) - 
 - [messense/dav-server-rs](https://github.com/messense/dav-server-rs) - Rust WebDAV server library. A fork of the webdav-handler crate.
 - [arcnmx/input-linux-rs](https://github.com/arcnmx/input-linux-rs) - evdev and uinput for Rust
-- [nomad/cola](https://github.com/nomad/cola) - 🥤 A text CRDT for real-time collaborative editing
+- [noib3/cola](https://github.com/noib3/cola) - 🥤 A text CRDT for real-time collaborative editing
 - [onagre-launcher/onagre](https://github.com/onagre-launcher/onagre) - A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates.
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
