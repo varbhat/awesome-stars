@@ -533,7 +533,6 @@
 - [awsdocs/aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples) - Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below.
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
-- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [GameTechDev/IntroductionToVulkan](https://github.com/GameTechDev/IntroductionToVulkan) - Source code examples for "API without Secrets: Introduction to Vulkan" tutorial
@@ -800,6 +799,7 @@
 
 ## go 
 
+- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for reading logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with supports log highlighting and several filtering modes.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
@@ -944,7 +944,6 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
-- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -1105,7 +1104,6 @@
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 - [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
-- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [xdg-rs/dirs](https://github.com/xdg-rs/dirs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
 - [pfpacket/rust-9p](https://github.com/pfpacket/rust-9p) - Tokio-based asynchronous filesystems library using 9P2000.L protocol, an extended variant of 9P from Plan 9.
@@ -1197,7 +1195,6 @@
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
 - [woelper/oculante](https://github.com/woelper/oculante) - A fast and simple image viewer / editor for many operating systems
-- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [xdg-rs/dirs](https://github.com/xdg-rs/dirs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [gmt4/mpvc](https://github.com/gmt4/mpvc) - Music player in POSIX-sh using mpv from the shell/fzf + extras/goodies 🎧📡🛸
 
@@ -1845,7 +1842,6 @@
 ## qt 
 
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
-- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 
 ## r 
 
@@ -2151,6 +2147,7 @@
 
 ## terminal 
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2196,6 +2193,8 @@
 
 ## tui 
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
+- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for reading logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with supports log highlighting and several filtering modes.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
@@ -2306,7 +2305,6 @@
 - [josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui) - Terminal-based manga reader and downloader with image rendering support
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [sethmlarson/truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores
-- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [xdg-rs/dirs](https://github.com/xdg-rs/dirs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [PhilipK/BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
