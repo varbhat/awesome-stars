@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [zonghaoyuan/adhd-focus-light](https://github.com/zonghaoyuan/adhd-focus-light) - A red LED heartbeat blinker for M5StickC Plus2 to help people with ADHD improve focus and concentration
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -139,7 +140,6 @@
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
-- [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -185,6 +185,7 @@
 
 ## Go 
 
+- [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for reading logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with supports log highlighting and several filtering modes.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
