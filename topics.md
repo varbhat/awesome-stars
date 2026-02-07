@@ -212,6 +212,7 @@
 ## ai-agents 
 
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 
 ## algorithm 
@@ -279,6 +280,7 @@
 ## automation 
 
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
 
 ## awesome 
@@ -288,7 +290,6 @@
 - [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [Vuizur/awesome-language-learning](https://github.com/Vuizur/awesome-language-learning) - A curated list of amazing projects that help you learn languages.
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -1197,6 +1198,7 @@
 ## mcp 
 
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ## microservices 
 
@@ -1392,7 +1394,6 @@
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [wiredopposite/OGX-Mini](https://github.com/wiredopposite/OGX-Mini) - RP2040 & RP2350 USB gamepad emulation for multiple platforms.
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
-- [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A double entry ledger implementation in PostgreSQL
 - [markbates/goth](https://github.com/markbates/goth) - Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.
 - [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source) - A better API for making Event Source requests, with all the features of fetch()
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) - 
@@ -1586,7 +1587,7 @@
 - [chaosprint/bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - bytebeat written in rust
 - [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole) - The superconsole crate provides a handler and building blocks for powerful, yet minimally intrusive TUIs.  It is cross platform, supporting Windows 7+, Linux, and MacOS.  Rustaceans who want to create
-- [rust-lang/keyword-generics-initiative](https://github.com/rust-lang/keyword-generics-initiative) - Public repository for the Rust keyword generics initiative
+- [rust-lang/effects-initiative](https://github.com/rust-lang/effects-initiative) - Public repository for the Rust effects initiative
 - [andyholmes/flatter](https://github.com/andyholmes/flatter) - Build and host a Flatpak repository
 - [chihaya/chihaya](https://github.com/chihaya/chihaya) - A customizable, multi-protocol BitTorrent Tracker
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
@@ -1700,6 +1701,7 @@
 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [nearform/temporal_tables](https://github.com/nearform/temporal_tables) - Postgresql temporal_tables extension in PL/pgSQL, without the need for external c extension.
+- [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A double entry ledger implementation in PostgreSQL
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [kaspermarstal/plprql](https://github.com/kaspermarstal/plprql) - Use PRQL in PostgreSQL
@@ -2074,6 +2076,7 @@
 ## sql 
 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
+- [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A double entry ledger implementation in PostgreSQL
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
