@@ -455,7 +455,7 @@
 - [HDVinnie/Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) - A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
 - [plabayo/learn-rust-101](https://github.com/plabayo/learn-rust-101) - A guide to aid you in your journey of becoming a Rustacean (Rust developer).
 - [dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-- [rust-lang/keyword-generics-initiative](https://github.com/rust-lang/keyword-generics-initiative) - Public repository for the Rust keyword generics initiative
+- [rust-lang/effects-initiative](https://github.com/rust-lang/effects-initiative) - Public repository for the Rust effects initiative
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [waitin2010/awesome-computer-graphics](https://github.com/waitin2010/awesome-computer-graphics) - A curated list of awesome computer graphics.
 - [superjamie/lazyweb](https://github.com/superjamie/lazyweb) - Random scraps of my knowledge
