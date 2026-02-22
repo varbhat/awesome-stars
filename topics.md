@@ -1874,7 +1874,7 @@
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
 - [citybound/citybound](https://github.com/citybound/citybound) - A work-in-progress, open-source, multi-player city simulation game.
 - [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [ElevenJune/serenIT](https://github.com/ElevenJune/serenIT) - Ambient Sound Player in Rust
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [ranile/gloo](https://github.com/ranile/gloo) - A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM
@@ -2168,7 +2168,7 @@
 
 - [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for viewing logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with support for log highlighting and several filtering modes.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
 - [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs
