@@ -1550,7 +1550,7 @@
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
-- [gotoco/dummyfs](https://github.com/gotoco/dummyfs) - Simple Linux Filesystem designed for learning purposes
+- [mmpg-x86/dummyfs](https://github.com/mmpg-x86/dummyfs) - Simple Linux Filesystem designed for learning purposes
 - [simonw/image-diff](https://github.com/simonw/image-diff) - CLI tool for comparing images
 - [dirs-dev/directories-rs](https://github.com/dirs-dev/directories-rs) - moved to https://codeberg.org/dirs/directories-rs
 - [whitequark/rust-xdg](https://github.com/whitequark/rust-xdg) - A library that makes it easy to follow the X Desktop Group specifications
