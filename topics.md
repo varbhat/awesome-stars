@@ -64,6 +64,7 @@
 - [embedded](#embedded)
 - [emulator](#emulator)
 - [english](#english)
+- [fastapi](#fastapi)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [font](#font)
@@ -700,6 +701,10 @@
 ## english 
 
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
+
+## fastapi 
+
+- [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 
 ## firefox 
 
