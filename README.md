@@ -374,7 +374,7 @@
 
 ## Nix 
 
-- [AsahiRocks/scroll-flake](https://github.com/AsahiRocks/scroll-flake) - NixOS flake for scroll, a fork of Sway with a scrolling tiling layout
+- [AsahiRocks/scroll-flake](https://github.com/AsahiRocks/scroll-flake) - ❄️ NixOS flake for scroll, a fork of Sway with a scrolling tiling layout
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 
