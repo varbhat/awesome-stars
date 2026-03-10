@@ -1359,7 +1359,7 @@
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [ublue-os/bazzite-arch](https://github.com/ublue-os/bazzite-arch) - A ready-to-game Arch Linux based OCI designed for use exclusively in distrobox.
-- [AsahiRocks/scroll-flake](https://github.com/AsahiRocks/scroll-flake) - NixOS flake for scroll, a fork of Sway with a scrolling tiling layout
+- [AsahiRocks/scroll-flake](https://github.com/AsahiRocks/scroll-flake) - ❄️ NixOS flake for scroll, a fork of Sway with a scrolling tiling layout
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [nlpfromscratch/nlp-llms-resources](https://github.com/nlpfromscratch/nlp-llms-resources) - Master list of curated resources on NLP and LLMs
 - [adilarshidin/it-company-contacts](https://github.com/adilarshidin/it-company-contacts) - The complete (as far as it is possible) list of it companies' and recruitment agencies emails.
