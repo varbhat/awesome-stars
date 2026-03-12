@@ -271,6 +271,7 @@
 
 ## HTML 
 
+- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [bartbussmann/lesswrong_ebook_library](https://github.com/bartbussmann/lesswrong_ebook_library) - LessWrong Ebook Library
 - [framewiki/framewiki.net](https://github.com/framewiki/framewiki.net) - The unofficial community-driven Framework wiki
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
@@ -500,7 +501,6 @@
 
 ## Python 
 
-- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [mishnit/mishnit.github.io](https://github.com/mishnit/mishnit.github.io) - My Blog - CORPOR8
