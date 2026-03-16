@@ -302,6 +302,7 @@
 
 ## JavaScript 
 
+- [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill) - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 - [aqt/webext-popup](https://github.com/aqt/webext-popup) - Simple Web Extension to open a page with minimal browser ui
 - [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [varbhat/userscripts](https://github.com/varbhat/userscripts) - 🐒 Violentmonkey userscripts
