@@ -94,6 +94,7 @@
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
+- [jetpack-compose](#jetpack-compose)
 - [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -1011,6 +1012,11 @@
 - [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv) - A super tiny reactive library. :zap:
 - [Marcisbee/radi](https://github.com/Marcisbee/radi) - 🌀Tiny (in size) front-end framework with no extra browser re-flows
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
+
+## jetpack-compose 
+
+- [MM2-0/Kvaesitso](https://github.com/MM2-0/Kvaesitso) - A search-focused Android launcher
+- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
 
 ## json 
 
