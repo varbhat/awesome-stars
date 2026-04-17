@@ -513,6 +513,7 @@
 
 ## Python 
 
+- [Pugio/Orly](https://github.com/Pugio/Orly) - A realtime agent overlay for life
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [newptcai/purr](https://github.com/newptcai/purr) - A CLI interface for using KittenTTS
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
