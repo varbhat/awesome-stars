@@ -379,7 +379,6 @@
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [jonniek/mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
 - [open-dynaMIX/simple-mpv-webui](https://github.com/open-dynaMIX/simple-mpv-webui) - A web based user interface with controls for the mpv mediaplayer.
-- [azemetre/dotfiles](https://github.com/azemetre/dotfiles) - a mobile configuration, for a mobile human 💻
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
