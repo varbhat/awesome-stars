@@ -472,6 +472,7 @@
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
+- [jfernandez/bpftop](https://github.com/jfernandez/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support.
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -694,7 +695,6 @@
 
 ## dotfiles 
 
-- [azemetre/dotfiles](https://github.com/azemetre/dotfiles) - a mobile configuration, for a mobile human 💻
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [varbhat/nixcfg](https://github.com/varbhat/nixcfg) - ❄️ configuration of my systems
 
@@ -1120,6 +1120,7 @@
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 - [akawashiro/sloader](https://github.com/akawashiro/sloader) - sloader is an ELF loader which aims to replace ld-linux.so of glibc.
 - [EHfive/pw-capture](https://github.com/EHfive/pw-capture) - Vulkan/OpenGL (game) capture for PipeWire
+- [jfernandez/bpftop](https://github.com/jfernandez/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [Unturned3/Microdot](https://github.com/Unturned3/Microdot) - The Microdot Project guides you to create a fully functional but compact Linux system from scratch
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -1289,7 +1290,6 @@
 ## neovim 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [azemetre/dotfiles](https://github.com/azemetre/dotfiles) - a mobile configuration, for a mobile human 💻
 - [varbhat/nixcfg](https://github.com/varbhat/nixcfg) - ❄️ configuration of my systems
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
@@ -1527,7 +1527,6 @@
 - [peterbourgon/ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 - [brickbots/framedeck](https://github.com/brickbots/framedeck) - A Framework mainboard based Cyberdeck
 - [kyren/piccolo](https://github.com/kyren/piccolo) - An experimental stackless Lua VM implemented in pure Rust
-- [jfernandez/bpftop](https://github.com/jfernandez/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [plut0nium/0xB2](https://github.com/plut0nium/0xB2) - Pro-Micro/Elite-C replacement with RP2040 and USB-C
 - [alessandrod/bpf-linker](https://github.com/alessandrod/bpf-linker) - Simple BPF static linker
 - [ploopyco/nano-trackball](https://github.com/ploopyco/nano-trackball) - A very small trackball-only mouse. Mechanical files, PCBs, and firmware all included.
@@ -2274,7 +2273,6 @@
 ## vim 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [azemetre/dotfiles](https://github.com/azemetre/dotfiles) - a mobile configuration, for a mobile human 💻
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
 - [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course) - :notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.
@@ -2346,7 +2344,6 @@
 
 ## zsh 
 
-- [azemetre/dotfiles](https://github.com/azemetre/dotfiles) - a mobile configuration, for a mobile human 💻
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 
