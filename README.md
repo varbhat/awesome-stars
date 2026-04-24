@@ -109,7 +109,7 @@
 
 - [rogerfar/rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-- [rajko-horvat/OpenCiv1](https://github.com/rajko-horvat/OpenCiv1) - Open source rewrite of the original Civilization 1 Game designed by Sid Meier and Bruce Shelley in year 1991
+- [rajko-horvat/OpenCiv1](https://github.com/rajko-horvat/OpenCiv1) - Open source preservation effort and rewrite of the iconic Civilization Game designed by Sid Meier and Bruce Shelley in year 1991
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 
 ## C++ 
@@ -713,7 +713,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [Lea-fish/Leafish](https://github.com/Lea-fish/Leafish) - A minecraft-like multi version client implemented in Rust.
-- [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your code is correct in an automated fashion.
+- [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your Rust code is correct.
 - [oro-os/kernel](https://github.com/oro-os/kernel) - Kernel for the Oro Operating System
 - [atamakahere-git/bob](https://github.com/atamakahere-git/bob) - Testing which builder pattern is better in rust
 - [kaspermarstal/plprql](https://github.com/kaspermarstal/plprql) - Use PRQL in PostgreSQL
