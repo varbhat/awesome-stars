@@ -1233,6 +1233,7 @@
 
 ## others 
 
+- [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 - [wiseman/osm-mcp](https://github.com/wiseman/osm-mcp) - Model Context Protocol server for OpenStreetMap data
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [levineam/qmd-skill](https://github.com/levineam/qmd-skill) - 
