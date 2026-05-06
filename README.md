@@ -249,6 +249,7 @@
 
 ## Others 
 
+- [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 - [levineam/qmd-skill](https://github.com/levineam/qmd-skill) - 
 - [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [piyushrajyadav/awesome-ai-dev-prompts](https://github.com/piyushrajyadav/awesome-ai-dev-prompts) - 
