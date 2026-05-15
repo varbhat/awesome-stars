@@ -745,7 +745,6 @@
 ## generative-ai 
 
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ## git 
@@ -1044,7 +1043,6 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
 - [vlm-run/vlmrun-cookbook](https://github.com/vlm-run/vlmrun-cookbook) - Examples and guides for using the VLM Run API
@@ -1329,7 +1327,7 @@
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [rust-transit/osm4routing2](https://github.com/rust-transit/osm4routing2) - Extract a street network from Openstreetmap as a graph ready for routing
 - [ShivamShrirao/CLIP_Image_Search](https://github.com/ShivamShrirao/CLIP_Image_Search) - Search Images through image dataset with text prompt using Open AI's CLIP neural network.
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [dvc94ch/peernet](https://github.com/dvc94ch/peernet) - easy and reliable p2p networking
@@ -1400,7 +1398,7 @@
 - [geph-official/smolscale](https://github.com/geph-official/smolscale) - 
 - [oxidecomputer/helios](https://github.com/oxidecomputer/helios) - Helios: Or, a Vision in a Dream. A Fragment.
 - [mike-lloyd03/rudric](https://github.com/mike-lloyd03/rudric) - The Keeper of Secrets
-- [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust
+- [composefs/tar-rs](https://github.com/composefs/tar-rs) - Tar file reading/writing for Rust
 - [rodrimati1992/abi_stable_crates](https://github.com/rodrimati1992/abi_stable_crates) - Rust-to-Rust ffi,ffi-safe equivalents of std types,and creating libraries loaded at startup.
 - [moturus/motor-os](https://github.com/moturus/motor-os) - A simple, fast, and secure operating system for the cloud.
 - [simonw/sqlite-migrate](https://github.com/simonw/sqlite-migrate) - A simple database migration system for SQLite, based on sqlite-utils
