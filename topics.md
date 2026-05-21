@@ -1366,7 +1366,7 @@
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [trifectatechfoundation/zlib-rs](https://github.com/trifectatechfoundation/zlib-rs) - A zlib implementation in rust available as a C dynamic library and as a rust crate
 - [memorysafety/rav1d](https://github.com/memorysafety/rav1d) - An AV1 decoder in Rust.
-- [aya-rs/bpf-linker](https://github.com/aya-rs/bpf-linker) - Simple BPF static linker
+- [aya-rs/bpf-linker](https://github.com/aya-rs/bpf-linker) - BPF static linker
 - [IDEA-Research/TAPTR](https://github.com/IDEA-Research/TAPTR) - [ECCV 2024 & NeurIPS 2024 & ICLR 2026] Official implementation of the paper TAPTR & TAPTRv2 & TAPTRv3
 - [brettcannon/sans-io](https://github.com/brettcannon/sans-io) - Network protocol implementations in Python, sans I/O
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
