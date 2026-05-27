@@ -461,7 +461,6 @@
 
 ## claude-code 
 
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
