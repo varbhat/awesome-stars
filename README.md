@@ -186,7 +186,7 @@
 - [OpenTaal/opentaal-wordlist](https://github.com/OpenTaal/opentaal-wordlist) - 🇳🇱🇧🇪🇸🇷 Dutch word list by OpenTaal
 - [supermarkt/checkjebon](https://github.com/supermarkt/checkjebon) - Dutch supermarket prices and comparison tool
 - [joelseverin/linux-wasm](https://github.com/joelseverin/linux-wasm) - WebAssembly (Wasm) arch support for the Linux kernel
-- [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [dy/sprae](https://github.com/dy/sprae) - DOM tree microhydration
 - [developit/vhtml](https://github.com/developit/vhtml) - Render JSX/Hyperscript to HTML strings, without VDOM 🌈
