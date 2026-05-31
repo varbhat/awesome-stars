@@ -1298,7 +1298,6 @@
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
 - [Pugio/Orly](https://github.com/Pugio/Orly) - A realtime agent overlay for life
 - [blinry/soft-drink-recipes](https://github.com/blinry/soft-drink-recipes) - A collection of DIY soft drink recipes.
-- [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [newptcai/purr](https://github.com/newptcai/purr) - A CLI interface for using KittenTTS
