@@ -528,7 +528,7 @@
 - [harfbuzz/ttf-parser](https://github.com/harfbuzz/ttf-parser) - A high-level, safe, zero-allocation TrueType font parser.
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find-and-replace in the terminal
-- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core
+- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - the zero-copy data plane with a Rust core
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [Harzu/iced_term](https://github.com/Harzu/iced_term) - Terminal emulator widget powered by ICED framework and alacritty terminal backend.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
