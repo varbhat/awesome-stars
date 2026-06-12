@@ -251,7 +251,6 @@
 ## Others 
 
 - [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
-- [levineam/qmd-skill](https://github.com/levineam/qmd-skill) - 
 - [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [piyushrajyadav/awesome-ai-dev-prompts](https://github.com/piyushrajyadav/awesome-ai-dev-prompts) - 
 - [0x2e-Tech/awesome-ai-prompts](https://github.com/0x2e-Tech/awesome-ai-prompts) - A curated list of 500+ powerful LLM prompts for ChatGPT, Claude, Gemini, and more — organized by category.
@@ -782,7 +781,6 @@
 
 ## Zig 
 
-- [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 
