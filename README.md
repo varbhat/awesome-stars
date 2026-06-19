@@ -617,7 +617,6 @@
 - [whitequark/rust-xdg](https://github.com/whitequark/rust-xdg) - A library that makes it easy to follow the X Desktop Group specifications
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
 - [bitflags/bitflags](https://github.com/bitflags/bitflags) - A macro to generate structures which behave like bitflags
-- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [google/rust-shell](https://github.com/google/rust-shell) - Helper library for std::process::Command to write shell script like tasks in rust
 - [AustinJ235/basalt](https://github.com/AustinJ235/basalt) - A rust library that provides window creation, input handling, and most importantly a UI.
@@ -765,7 +764,7 @@
 - [Nutlope/devtool-angels](https://github.com/Nutlope/devtool-angels) - A site that lists angel investors that invest in devtools
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
