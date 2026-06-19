@@ -153,6 +153,7 @@
 - [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [redteam](#redteam)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [reverse-engineering](#reverse-engineering)
@@ -267,7 +268,7 @@
 
 ## angular 
 
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 
 ## ansible 
@@ -573,7 +574,6 @@
 ## css 
 
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 
 ## data 
@@ -740,7 +740,6 @@
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
-- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 
 ## game 
 
@@ -864,7 +863,6 @@
 - [Harzu/iced_term](https://github.com/Harzu/iced_term) - Terminal emulator widget powered by ICED framework and alacritty terminal backend.
 - [khonsulabs/cushy](https://github.com/khonsulabs/cushy) - An experimental cross-platform graphical user interface (GUI) crate for Rust.
 - [Joylei/plotters-iced](https://github.com/Joylei/plotters-iced) - :chart_with_upwards_trend: Iced backend for Plotters
-- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [wojciech-graj/oriel](https://github.com/wojciech-graj/oriel) - An interpreter for the 1991 Oriel scripting language
 - [MaarifaMaarifa/series-troxide](https://github.com/MaarifaMaarifa/series-troxide) - A Simple and Modern Series Tracker
 - [AlisCode/iced-pancurses](https://github.com/AlisCode/iced-pancurses) - Pancurses-based renderer for Iced (WIP)
@@ -918,7 +916,7 @@
 ## http 
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [lipanski/mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust!
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
@@ -953,7 +951,7 @@
 
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
@@ -1205,7 +1203,7 @@
 
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 
 ## nlp 
 
@@ -1223,7 +1221,6 @@
 
 ## nodejs 
 
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [wan9chi/rust-nodejs](https://github.com/wan9chi/rust-nodejs) - Embedding Node.js in Rust
@@ -1648,6 +1645,7 @@
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -1715,6 +1713,10 @@
 - [casosorg/casos](https://github.com/casosorg/casos) - CasOS: a cloud operating system built on Kubernetes, Live Demo: https://casos.casnode.com
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv) - A super tiny reactive library. :zap:
+
+## redteam 
+
+- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 
 ## reinforcement-learning 
 
@@ -1821,7 +1823,6 @@
 - [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [xdg-rs/dirs](https://github.com/xdg-rs/dirs) - a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows
 - [sunfishcode/eyra](https://github.com/sunfishcode/eyra) - Rust programs written entirely in Rust
-- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - [pfpacket/rust-9p](https://github.com/pfpacket/rust-9p) - Tokio-based asynchronous filesystems library using 9P2000.L protocol, an extended variant of 9P from Plan 9.
@@ -2038,7 +2039,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 
 ## ubuntu 
@@ -2049,7 +2050,6 @@
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
-- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [luwes/sinuous](https://github.com/luwes/sinuous) - 🧬 Light, fast, reactive UI library
 - [maciejhirsz/kobold](https://github.com/maciejhirsz/kobold) - Easy declarative web interfaces.
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
