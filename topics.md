@@ -307,7 +307,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-- [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency web data collector
+- [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency streaming web data
 
 ## awesome 
 
@@ -566,7 +566,7 @@
 
 ## crawler 
 
-- [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency web data collector
+- [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency streaming web data
 
 ## cryptography 
 
@@ -1282,6 +1282,7 @@
 
 ## others 
 
+- [gold-silver-copper/CuTTY](https://github.com/gold-silver-copper/CuTTY) - A wgpu powered terminal emulator, pronounced "cutie"
 - [Zettt/liftosaur2garmin](https://github.com/Zettt/liftosaur2garmin) - 
 - [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions.
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
@@ -1868,7 +1869,7 @@
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
-- [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency web data collector
+- [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency streaming web data
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
