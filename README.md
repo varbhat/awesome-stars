@@ -463,6 +463,7 @@
 
 ## Rust 
 
+- [gold-silver-copper/CuTTY](https://github.com/gold-silver-copper/CuTTY) - A wgpu powered terminal emulator, pronounced "cutie"
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4
@@ -687,7 +688,7 @@
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [SixArm/rust-quick-guide](https://github.com/SixArm/rust-quick-guide) - Rust Quick Guide provides short introductions to many Rust programming topics, including the language, ecosystem, concepts, crates, and more.
 - [lopukhov/unbox](https://github.com/lopukhov/unbox) - Unshare a toolbox
-- [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency web data collector
+- [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency streaming web data
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
 - [rust-av/Av1an](https://github.com/rust-av/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding
