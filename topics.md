@@ -1328,6 +1328,7 @@
 
 ## others 
 
+- [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [gold-silver-copper/CuTTY](https://github.com/gold-silver-copper/CuTTY) - A wgpu powered terminal emulator, pronounced "cutie"
 - [Zettt/liftosaur2garmin](https://github.com/Zettt/liftosaur2garmin) - 
