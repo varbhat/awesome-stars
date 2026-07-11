@@ -16,6 +16,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Nix](#nix)
@@ -29,7 +30,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [YAML](#yaml)
-- [Zig](#zig)
 
 ## Assembly 
 
@@ -157,6 +157,7 @@
 
 ## HTML 
 
+- [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 - [jseluis/artificial_intelligence_for_trading](https://github.com/jseluis/artificial_intelligence_for_trading) - Artificial Intelligence for Trading
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
@@ -176,6 +177,7 @@
 
 ## JavaScript 
 
+- [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
@@ -194,7 +196,7 @@
 - [casosorg/casos](https://github.com/casosorg/casos) - CasOS: a cloud operating system built on Kubernetes, Live Demo: https://demo.casos.net
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [dy/sprae](https://github.com/dy/sprae) - DOM tree microhydration
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [developit/vhtml](https://github.com/developit/vhtml) - Render JSX/Hyperscript to HTML strings, without VDOM 🌈
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [ranelpadon/ngram-type](https://github.com/ranelpadon/ngram-type) - Touch typing trainer using N-grams as data source, with options to customize the auto-generated lessons and specify the minimum typing performance needed. There are sound/color effects as well.
@@ -228,6 +230,10 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [fastai/course22](https://github.com/fastai/course22) - The fast.ai course notebooks
+
+## Just 
+
+- [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 
 ## Kotlin 
 
@@ -469,6 +475,9 @@
 
 ## Rust 
 
+- [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
+- [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - GUI platform toolkit for developing COSMIC applications and applets
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
 - [varbhat/desktopmcp](https://github.com/varbhat/desktopmcp) - MCP server for the Linux desktop 🐧🤖
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
@@ -660,7 +669,6 @@
 - [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs
 - [ratatui/ratatui-image](https://github.com/ratatui/ratatui-image) - Ratatui widget for rendering image graphics in terminals that support it
 - [eorzeatools/microlaunch](https://github.com/eorzeatools/microlaunch) - A native Linux launcher for FINAL FANTASY XIV Online written in Rust
-- [onagre-launcher/onagre](https://github.com/onagre-launcher/onagre) - A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred
 - [BonnyAD9/uamp](https://github.com/BonnyAD9/uamp) - Universal Advanced Music Player written in Rust.
 - [IceDBorn/pipewire-screenaudio](https://github.com/IceDBorn/pipewire-screenaudio) - Extension to passthrough pipewire audio to WebRTC Screenshare
 - [eduidl/iced-7-guis](https://github.com/eduidl/iced-7-guis) - WIP: Implementation of 7GUIs by using iced
@@ -679,7 +687,7 @@
 - [bilelmoussaoui/ashpd](https://github.com/bilelmoussaoui/ashpd) - A Rust wrapper around XDG portals DBus interfaces
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
 - [JojiiOfficial/rsv](https://github.com/JojiiOfficial/rsv) - The runit sv command rewritten in rust with additional features
-- [Alonely0/Lariv](https://github.com/Alonely0/Lariv) - Linked Atomic Random Insert Vector: a thread-safe, self-memory-managed vector with no guaranteed sequential insert.
+- [Alonely0/Lariv](https://github.com/Alonely0/Lariv) - Linked Atomic Random Insert Vector: a thread-safe ring buffer with no guaranteed sequential insert.
 - [balliegojr/simple-dns](https://github.com/balliegojr/simple-dns) - Simple DNS written in Rust
 - [dylanmckay/mdns](https://github.com/dylanmckay/mdns) - A multicast DNS client in Rust
 - [chaosprint/bytebeat-rs](https://github.com/chaosprint/bytebeat-rs) - bytebeat written in rust
@@ -784,10 +792,6 @@
 ## YAML 
 
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
-
-## Zig 
-
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 
 ## License
