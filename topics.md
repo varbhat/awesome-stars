@@ -1047,6 +1047,7 @@
 
 ## linux 
 
+- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
 - [gkostka/lwext4](https://github.com/gkostka/lwext4) - ext2/ext3/ext4 filesystem library for microcontrollers
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1763,6 +1764,7 @@
 
 ## rust 
 
+- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
@@ -1796,7 +1798,7 @@
 - [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs
 - [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured, embeddable key-value storage engine written in Rust
 - [baoyachi/shadow-rs](https://github.com/baoyachi/shadow-rs) - A build-time information stored in your rust project.(binary,lib,cdylib,dylib,wasm)
-- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - the zero-copy data plane with a Rust core
+- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core
 - [Smithay/smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
 - [Harzu/iced_term](https://github.com/Harzu/iced_term) - Terminal emulator widget powered by ICED framework and alacritty terminal backend.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
