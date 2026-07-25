@@ -382,6 +382,7 @@
 
 ## Python 
 
+- [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 - [Zettt/liftosaur2garmin](https://github.com/Zettt/liftosaur2garmin) - 
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
@@ -719,7 +720,6 @@
 - [badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid) - A preprocessor for mdbook to add mermaid support
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [Recursing/sunfish_rs](https://github.com/Recursing/sunfish_rs) - Rust rewrite of the sunfish simple chess engine
-- [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
 - [mattico/elasticlunr-rs](https://github.com/mattico/elasticlunr-rs) - A partial port of elasticlunr to Rust. Intended to be used for generating compatible search indices.
 - [rust-ammonia/ammonia](https://github.com/rust-ammonia/ammonia) - Repair and secure untrusted HTML
 - [rust-postgres/rust-postgres](https://github.com/rust-postgres/rust-postgres) - Native PostgreSQL driver for the Rust programming language
@@ -733,8 +733,6 @@
 - [RalfJung/rust-101](https://github.com/RalfJung/rust-101) - A tutorial for the Rust language
 - [julianbuettner/tcp-over-http](https://github.com/julianbuettner/tcp-over-http) - A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
-- [yujqiao/catproc](https://github.com/yujqiao/catproc) - Print the output of a running process
-- [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
 
 ## Shell 
 
@@ -742,26 +740,16 @@
 - [pedroetb/rsync-incremental-backup](https://github.com/pedroetb/rsync-incremental-backup) - Configurable bash script to send incremental backups of your data to a local or remote target
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
-- [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [learnbyexample/learn_gnugrep_ripgrep](https://github.com/learnbyexample/learn_gnugrep_ripgrep) - Example based guide to mastering GNU grep and ripgrep
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [gilesbowkett/rewind](https://github.com/gilesbowkett/rewind) - Rewind is an intelligent archivist.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-- [AdelKS/LinuxGamingGuide](https://github.com/AdelKS/LinuxGamingGuide) - An incomplete compilation of things that may improve your gaming experience on Linux
 
 ## TeX 
 
 - [little-book-of/algorithms](https://github.com/little-book-of/algorithms) - Bake a cake with care, follow steps the recipe gives, that’s an algorithm.
-- [josephwright/beamer](https://github.com/josephwright/beamer) - A LaTeX class for producing presentations and slides
-- [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
 ## TypeScript 
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
-- [aree6/LiftShift](https://github.com/aree6/LiftShift) - Analyze your workout logs from Hevy, Strong, Lyfta, and more, with actionable insights, interactive muscle heatmaps, plateau detection, AI-powered analysis, calendar filtering, shareable progress card
-- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions.
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -771,7 +759,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [Nutlope/devtool-angels](https://github.com/Nutlope/devtool-angels) - A site that lists angel investors that invest in devtools
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [jina-ai/node-DeepResearch](https://github.com/jina-ai/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.
@@ -779,6 +766,7 @@
 
 ## Typst 
 
+- [skriptum/diatypst](https://github.com/skriptum/diatypst) - easy slides in typst
 - [steadyfall/simple-technical-resume-template](https://github.com/steadyfall/simple-technical-resume-template) - A simple technical resume designed to fit within a page and work well with ATS.
 
 ## Vim Script 
