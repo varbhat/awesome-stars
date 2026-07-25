@@ -53,7 +53,6 @@
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
-- [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [dependency-management](#dependency-management)
@@ -89,7 +88,6 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [gui](#gui)
-- [hack](#hack)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -104,7 +102,6 @@
 - [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
-- [latex](#latex)
 - [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
@@ -197,7 +194,6 @@
 ## agent 
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [instructa/ai-prompts](https://github.com/instructa/ai-prompts) - Curated AI Prompts for Cursor Rules, Cline, Windsurf and Github Copilot
 
@@ -216,7 +212,6 @@
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -236,7 +231,7 @@
 
 ## ai-agents 
 
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+- [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
@@ -260,7 +255,6 @@
 
 ## analytics 
 
-- [aree6/LiftShift](https://github.com/aree6/LiftShift) - Analyze your workout logs from Hevy, Strong, Lyfta, and more, with actionable insights, interactive muscle heatmaps, plateau detection, AI-powered analysis, calendar filtering, shareable progress card
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
 ## android 
@@ -309,7 +303,6 @@
 ## automation 
 
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -352,6 +345,7 @@
 
 ## awesome-list 
 
+- [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 - [rohitg00/awesome-claude-design](https://github.com/rohitg00/awesome-claude-design) - Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.
 - [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -409,7 +403,6 @@
 ## bash 
 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 
@@ -446,20 +439,17 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [microsoftarchive/promptbench](https://github.com/microsoftarchive/promptbench) - A unified evaluation framework for large language models
 
 ## chrome-extension 
 
-- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 
 ## claude 
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
@@ -486,7 +476,6 @@
 
 ## cli 
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -620,10 +609,6 @@
 - [vivekstorm/Software-Engineering-Course](https://github.com/vivekstorm/Software-Engineering-Course) - List of available free/paid courses,bootcamps available for Coding Interview Prep, SDE Roles
 - [betty200744/ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems.
 
-## data-visualization 
-
-- [aree6/LiftShift](https://github.com/aree6/LiftShift) - Analyze your workout logs from Hevy, Strong, Lyfta, and more, with actionable insights, interactive muscle heatmaps, plateau detection, AI-powered analysis, calendar filtering, shareable progress card
-
 ## database 
 
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
@@ -667,7 +652,6 @@
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 
 ## development 
 
@@ -759,7 +743,6 @@
 
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
-- [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [mooman219/fontdue](https://github.com/mooman219/fontdue) - The fastest font renderer in the world, written in pure rust.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
 
@@ -899,10 +882,6 @@
 - [AlisCode/iced-pancurses](https://github.com/AlisCode/iced-pancurses) - Pancurses-based renderer for Iced (WIP)
 - [eduidl/iced-7-guis](https://github.com/eduidl/iced-7-guis) - WIP: Implementation of 7GUIs by using iced
 
-## hack 
-
-- [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-
 ## hacking 
 
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
@@ -932,7 +911,6 @@
 - [matthiasbeyer/mdbook-svgbob2](https://github.com/matthiasbeyer/mdbook-svgbob2) - A preprocessor for mdbook to convert svgbob codeblocks into SVG using svgbob
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
-- [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 
 ## html 
@@ -1019,10 +997,6 @@
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 
-## latex 
-
-- [josephwright/beamer](https://github.com/josephwright/beamer) - A LaTeX class for producing presentations and slides
-
 ## learn-to-code 
 
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -1086,7 +1060,6 @@
 
 ## llm 
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1101,7 +1074,6 @@
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 - [gotzmann/llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
@@ -1175,7 +1147,7 @@
 
 ## mcp 
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -1257,7 +1229,6 @@
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -1267,7 +1238,6 @@
 
 ## openai 
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1296,10 +1266,10 @@
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [oro-os/kernel](https://github.com/oro-os/kernel) - Kernel for the Oro Operating System
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
-- [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
 ## others 
 
+- [skriptum/diatypst](https://github.com/skriptum/diatypst) - easy slides in typst
 - [steadyfall/simple-technical-resume-template](https://github.com/steadyfall/simple-technical-resume-template) - A simple technical resume designed to fit within a page and work well with ATS.
 - [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
 - [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
@@ -1308,7 +1278,6 @@
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [gold-silver-copper/CuTTY](https://github.com/gold-silver-copper/CuTTY) - A wgpu powered terminal emulator, pronounced "cutie"
 - [Zettt/liftosaur2garmin](https://github.com/Zettt/liftosaur2garmin) - 
-- [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar) - Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions.
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 - [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 - [wiseman/osm-mcp](https://github.com/wiseman/osm-mcp) - Model Context Protocol server for OpenStreetMap data
@@ -1552,7 +1521,6 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [gilesbowkett/rewind](https://github.com/gilesbowkett/rewind) - Rewind is an intelligent archivist.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
@@ -1569,13 +1537,11 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [julianbuettner/tcp-over-http](https://github.com/julianbuettner/tcp-over-http) - A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
-- [yujqiao/catproc](https://github.com/yujqiao/catproc) - Print the output of a running process
 - [pganalyze/libpg_query](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment
 - [seccomp/libseccomp](https://github.com/seccomp/libseccomp) - The main libseccomp repository
 - [HumbleUI/SkiaBuild](https://github.com/HumbleUI/SkiaBuild) - CI repo for building Skia as a shared library
 - [JetBrains/skia-build](https://github.com/JetBrains/skia-build) - 
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [AdelKS/LinuxGamingGuide](https://github.com/AdelKS/LinuxGamingGuide) - An incomplete compilation of things that may improve your gaming experience on Linux
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [kevinthew/linuxgems](https://github.com/kevinthew/linuxgems) - A succinct cheat sheet for newbie linux coders and system administrators, documenting some of the more obscure and useful gems of linux lore. Intended to be viewed in emacs org-mode, or VimOrganizer, 
 - [orrsella/soft-eng-interview-prep](https://github.com/orrsella/soft-eng-interview-prep) - Everything you need to know for a Software Engineering interview
@@ -1756,7 +1722,6 @@
 ## rust 
 
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
@@ -1889,14 +1854,12 @@
 - [indexmap-rs/indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [matthiasbeyer/mdbook-svgbob2](https://github.com/matthiasbeyer/mdbook-svgbob2) - A preprocessor for mdbook to convert svgbob codeblocks into SVG using svgbob
-- [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
 - [mattico/elasticlunr-rs](https://github.com/mattico/elasticlunr-rs) - A partial port of elasticlunr to Rust. Intended to be used for generating compatible search indices.
 - [vamolessa/verco](https://github.com/vamolessa/verco) - A simple Git/Mercurial/PlasticSCM tui client based on keyboard shortcuts
 - [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [ash-rs/ash](https://github.com/ash-rs/ash) - Vulkan bindings for Rust
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
-- [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
 
 ## scikit-learn 
 
@@ -1919,7 +1882,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 
 ## server 
 
@@ -1976,7 +1938,6 @@
 
 ## terminal 
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2022,7 +1983,6 @@
 
 ## tui 
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for viewing logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with support for log highlighting and several filtering modes.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2049,7 +2009,6 @@
 
 ## typescript 
 
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
