@@ -101,6 +101,10 @@
 
 ## Go 
 
+- [mitchellh/go-fs](https://github.com/mitchellh/go-fs) - Filesystem library for Go, implementing FAT filesystems so far.
+- [siderolabs/go-blockdevice](https://github.com/siderolabs/go-blockdevice) - 
+- [creack/pty](https://github.com/creack/pty) - PTY interface for Go
+- [quic-go/webtransport-go](https://github.com/quic-go/webtransport-go) - WebTransport implementation based on quic-go (https://datatracker.ietf.org/doc/draft-ietf-webtrans-http3/)
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [Lifailon/lazyjournal](https://github.com/Lifailon/lazyjournal) - TUI for viewing logs from journald, auditd, file system, Docker and Podman containers, Compose stacks and Kubernetes pods with support for log highlighting and several filtering modes.
