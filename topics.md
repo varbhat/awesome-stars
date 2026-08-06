@@ -1263,6 +1263,7 @@
 
 ## others 
 
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [mitchellh/go-fs](https://github.com/mitchellh/go-fs) - Filesystem library for Go, implementing FAT filesystems so far.
 - [siderolabs/go-blockdevice](https://github.com/siderolabs/go-blockdevice) - 
 - [mariusGundersen/htmx-json](https://github.com/mariusGundersen/htmx-json) - 
