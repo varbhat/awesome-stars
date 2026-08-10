@@ -141,7 +141,7 @@
 - [go-chi/httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities built on "log/slog" package
 - [micromata/dave](https://github.com/micromata/dave) - A totally simple and very easy to configure stand alone webdav server
 - [xvzc/spoofdpi](https://github.com/xvzc/spoofdpi) - Simple and fast anti-censorship tool written in Go
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [gokrazy/rsync](https://github.com/gokrazy/rsync) - rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bradleyjkemp/cupaloy](https://github.com/bradleyjkemp/cupaloy) - Simple Go snapshot testing
@@ -423,7 +423,7 @@
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen.
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - learn LLM inference on Apple Silicon for systems engineers: build a tiny vLLM + Qwen
 - [kantord/LibreLingo](https://github.com/kantord/LibreLingo) - 🐢 🌎 📚 a community-owned language-learning platform
 - [microsoftarchive/promptbench](https://github.com/microsoftarchive/promptbench) - A unified evaluation framework for large language models
 - [jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples) - Simple examples to introduce PyTorch
