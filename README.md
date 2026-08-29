@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [origami-ltd/wasm-revc](https://github.com/origami-ltd/wasm-revc) - Grand Theft Auto: Vice City running in the browser — WebAssembly + WebGPU, streaming your own game files. Part of the wasm.com.br preservation initiative.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
@@ -236,6 +237,7 @@
 
 ## Nix 
 
+- [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [varbhat/nixcfg](https://github.com/varbhat/nixcfg) - ❄️ configuration of my systems
@@ -352,13 +354,14 @@
 
 ## Python 
 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [jordanisaacs/kernel-development-flake](https://github.com/jordanisaacs/kernel-development-flake) - Nix flake for linux kernel development (formerly kernel-module-flake)
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [wiseman/osm-mcp](https://github.com/wiseman/osm-mcp) - Model Context Protocol server for OpenStreetMap data
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [mishnit/mishnit.github.io](https://github.com/mishnit/mishnit.github.io) - My Blog - CORPOR8
