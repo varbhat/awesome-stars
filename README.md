@@ -22,7 +22,6 @@
 - [Lua](#lua)
 - [Nix](#nix)
 - [Others](#others)
-- [Prolog](#prolog)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -156,6 +155,7 @@
 - [jseluis/artificial_intelligence_for_trading](https://github.com/jseluis/artificial_intelligence_for_trading) - Artificial Intelligence for Trading
 - [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [bartbussmann/lesswrong_ebook_library](https://github.com/bartbussmann/lesswrong_ebook_library) - LessWrong Ebook Library
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [northbright/Notes](https://github.com/northbright/Notes) - Development Notes
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [cadars/john-doe](https://github.com/cadars/john-doe) - A simple way to make HTML websites
@@ -351,10 +351,6 @@
 - [linsa-io/websites](https://github.com/linsa-io/websites) - Awesome Websites
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
-
-## Prolog 
-
-- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 
 ## Python 
 
