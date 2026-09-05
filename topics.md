@@ -1164,6 +1164,8 @@
 
 ## others 
 
+- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
+- [basecamp/handbook](https://github.com/basecamp/handbook) - 37signals Employee Handbook
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [origami-ltd/wasm-revc](https://github.com/origami-ltd/wasm-revc) - Grand Theft Auto: Vice City running in the browser — WebAssembly + WebGPU, streaming your own game files. Part of the wasm.com.br preservation initiative.
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
