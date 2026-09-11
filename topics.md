@@ -81,6 +81,7 @@
 - [gamedev](#gamedev)
 - [games](#games)
 - [generative-ai](#generative-ai)
+- [gis](#gis)
 - [git](#git)
 - [go](#go)
 - [godot](#godot)
@@ -131,6 +132,7 @@
 - [openai](#openai)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
+- [osint](#osint)
 - [others](#others)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
@@ -732,6 +734,10 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok B
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
+## gis 
+
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
 ## git 
 
 - [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things
@@ -1163,6 +1169,10 @@
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [oro-os/kernel](https://github.com/oro-os/kernel) - Kernel for the Oro Operating System
 - [littlekernel/lk](https://github.com/littlekernel/lk) - LK embedded kernel
+
+## osint 
+
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 
 ## others 
 
