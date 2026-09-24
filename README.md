@@ -442,6 +442,7 @@
 
 ## Rust 
 
+- [yoep/fx-torrent](https://github.com/yoep/fx-torrent) - FX Torrent is a feature rich Bittorrent protocol implementation written in rust supporting Linux, MacOS and Windows
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -450,7 +451,6 @@
 - [pop-os/cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
 - [pop-os/libcosmic](https://github.com/pop-os/libcosmic) - GUI platform toolkit for developing COSMIC applications and applets
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [gold-silver-copper/CuTTY](https://github.com/gold-silver-copper/CuTTY) - A wgpu powered terminal emulator, pronounced "cutie"
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -695,6 +695,7 @@
 
 ## TypeScript 
 
+- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
