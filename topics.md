@@ -259,6 +259,7 @@
 
 ## android 
 
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -276,6 +277,7 @@
 
 ## api 
 
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell) - It's a New Kind of Wrapper for Exposing LLVM (Safely)
@@ -918,11 +920,13 @@
 
 ## java 
 
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 
 ## javascript 
 
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -1048,6 +1052,7 @@
 
 ## lua 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [mlua-rs/mlua](https://github.com/mlua-rs/mlua) - High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support
 
 ## mac 
@@ -1088,6 +1093,7 @@
 
 ## markdown 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [matthiasbeyer/mdbook-svgbob2](https://github.com/matthiasbeyer/mdbook-svgbob2) - A preprocessor for mdbook to convert svgbob codeblocks into SVG using svgbob
 - [boozook/mdbook-svgbob](https://github.com/boozook/mdbook-svgbob) - SvgBob mdbook preprocessor which swaps code-blocks with neat SVG.
@@ -1168,6 +1174,7 @@
 
 ## open-source 
 
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
