@@ -930,7 +930,7 @@
 
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
-- [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [wan9chi/rust-nodejs](https://github.com/wan9chi/rust-nodejs) - Embedding Node.js in Rust
@@ -1214,6 +1214,7 @@
 
 ## others 
 
+- [SmartHomeGuys/DeskUp-Pro-Controller-RJ12](https://github.com/SmartHomeGuys/DeskUp-Pro-Controller-RJ12) - Making Standing Desks with an RJ11 / RJ12 Port Smart with ESPHome
 - [Matszwe02/ytdlp_web_player](https://github.com/Matszwe02/ytdlp_web_player) - YT-DLP Web Player - Internet video player powered by yt-dlp
 - [matthijsvisser/kamstrup-402-mqtt](https://github.com/matthijsvisser/kamstrup-402-mqtt) - This project provides a Python library that enables communication with the Kamstrup Multical 402 heat meter. The configured parameters will be read from the meter at a certain interval and published i
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - Fastest and cheapest web agent
