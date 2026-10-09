@@ -1221,6 +1221,7 @@
 
 ## others 
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [SmartHomeGuys/DeskUp-Pro-Controller-RJ12](https://github.com/SmartHomeGuys/DeskUp-Pro-Controller-RJ12) - Making Standing Desks with an RJ11 / RJ12 Port Smart with ESPHome
 - [Matszwe02/ytdlp_web_player](https://github.com/Matszwe02/ytdlp_web_player) - YT-DLP Web Player - Internet video player powered by yt-dlp
 - [matthijsvisser/kamstrup-402-mqtt](https://github.com/matthijsvisser/kamstrup-402-mqtt) - This project provides a Python library that enables communication with the Kamstrup Multical 402 heat meter. The configured parameters will be read from the meter at a certain interval and published i
