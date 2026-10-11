@@ -10,6 +10,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Cuda](#cuda)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
@@ -93,6 +94,10 @@
 ## Cuda 
 
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
+
+## Dart 
+
+- [leanbitlab-org/LtvLauncher](https://github.com/leanbitlab-org/LtvLauncher) - A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. A customized fork of FLauncher.
 
 ## Dockerfile 
 
@@ -228,6 +233,7 @@
 
 ## Kotlin 
 
+- [truefedex/tv-bro](https://github.com/truefedex/tv-bro) - Simple web browser for android optimized to use with TV remote
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
@@ -439,7 +445,7 @@
 
 ## Rust 
 
-- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
+- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux
 - [yoep/fx-torrent](https://github.com/yoep/fx-torrent) - FX Torrent is a feature rich Bittorrent protocol implementation written in rust supporting Linux, MacOS and Windows
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support
