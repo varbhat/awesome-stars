@@ -112,6 +112,8 @@
 
 ## Go 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
@@ -177,6 +179,7 @@
 
 ## HTML 
 
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [SmartHomeGuys/DeskUp-Pro-Controller-RJ12](https://github.com/SmartHomeGuys/DeskUp-Pro-Controller-RJ12) - Making Standing Desks with an RJ11 / RJ12 Port Smart with ESPHome
 - [ahatem/IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - An open programming typeface built on Iosevka. Compact, geometric, and tuned for editors and terminals.
 - [jseluis/artificial_intelligence_for_trading](https://github.com/jseluis/artificial_intelligence_for_trading) - Artificial Intelligence for Trading
@@ -197,6 +200,10 @@
 
 ## JavaScript 
 
+- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano) - 🎹 自由钢琴 AutoPiano - Simple & Elegant Piano Online
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Europe on platforms like ImmoScout24, Immowelt, eBay Kleinanzeigen and instantly delive
@@ -282,6 +289,8 @@
 
 ## Others 
 
+- [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) - LLM Council — a Claude Code skill that runs your decisions through 5 AI advisors with peer review
+- [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) - Prowlarr Indexers used by Cardigann
 - [mikepierce/internet-radio-streams](https://github.com/mikepierce/internet-radio-streams) - Curated List of Internet Radio Streams
 - [deroverda/recommended-radio-streams](https://github.com/deroverda/recommended-radio-streams) - Internet radio I actually listen to - underground electronic, freeform, jazz, ambient, and weird stuff. Direct stream URLs, M3U playlists, and apps to play them.
@@ -390,6 +399,12 @@
 
 ## Python 
 
+- [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) - Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.
+- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view pro
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [sunnypilot/sunnypilot](https://github.com/sunnypilot/sunnypilot) - sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 350 supported car makes and models with modified behaviors of driving assist enga
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader. Tags, organizes, and keeps playlists in sync.
@@ -422,7 +437,6 @@
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [wiseman/osm-mcp](https://github.com/wiseman/osm-mcp) - Model Context Protocol server for OpenStreetMap data
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [mishnit/mishnit.github.io](https://github.com/mishnit/mishnit.github.io) - My Blog - CORPOR8
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
@@ -489,6 +503,12 @@
 
 ## Rust 
 
+- [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
+- [apalis-dev/apalis](https://github.com/apalis-dev/apalis) - Type-safe, extensible, and high-performance background processing library for Rust
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [zortax/zgui](https://github.com/zortax/zgui) - reactive, retained rust ui framework
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [OpenSC2K/OpenSC2K](https://github.com/OpenSC2K/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux
@@ -731,6 +751,9 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [pedroetb/rsync-incremental-backup](https://github.com/pedroetb/rsync-incremental-backup) - Configurable bash script to send incremental backups of your data to a local or remote target
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
@@ -744,6 +767,18 @@
 
 ## TypeScript 
 
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+- [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc) - Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-preserving summaries using pure extraction and formatting.
+- [earendil-works/pi-claude-code](https://github.com/earendil-works/pi-claude-code) - A provider to access a Claude code subscription via code-code in pi
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
