@@ -7,6 +7,7 @@
 
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -41,6 +42,7 @@
 - [claude-code](#claude-code)
 - [claude-skills](#claude-skills)
 - [cli](#cli)
+- [clojure](#clojure)
 - [cloud](#cloud)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -78,6 +80,7 @@
 - [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
+- [elixir](#elixir)
 - [embedded](#embedded)
 - [emulator](#emulator)
 - [english](#english)
@@ -104,6 +107,7 @@
 - [graphql](#graphql)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
+- [haskell](#haskell)
 - [home-assistant](#home-assistant)
 - [html](#html)
 - [html5](#html5)
@@ -186,6 +190,7 @@
 - [robotics](#robotics)
 - [ruby](#ruby)
 - [rust](#rust)
+- [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
 - [security-tools](#security-tools)
@@ -254,6 +259,12 @@
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Tutorials, Guides and Agent Skills Directories
+
+## agentic-ai 
+
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+- [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, paper/live multi-asset execution, risk controls, monitoring, 
+- [maximveksler/awesome-serialization](https://github.com/maximveksler/awesome-serialization) - Curated list of data serialization formats — API, ML, Agentic AI, Big Data, Configuration, and beyond
 
 ## agents 
 
@@ -432,6 +443,7 @@
 - [Vuizur/awesome-language-learning](https://github.com/Vuizur/awesome-language-learning) - A curated list of amazing projects that help you learn languages.
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - Job-focused list of product companies using Go, Rust, Scala, Elixir and other languages in production. No outsourcing, no agencies.
 - [amanbolat/awesome-go-with-stars](https://github.com/amanbolat/awesome-go-with-stars) - Awesome-go list with stars. Automatically updated.
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -599,6 +611,10 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+
+## clojure 
+
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - Job-focused list of product companies using Go, Rust, Scala, Elixir and other languages in production. No outsourcing, no agencies.
 
 ## cloud 
 
@@ -843,6 +859,10 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
+## elixir 
+
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - Job-focused list of product companies using Go, Rust, Scala, Elixir and other languages in production. No outsourcing, no agencies.
+
 ## embedded 
 
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
@@ -993,6 +1013,7 @@
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local AI server. Chosen by thousands of users.  Batteries included. If we don't have it, you probably don't need it.
 - [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
 - [Baldomo/open-in-mpv](https://github.com/Baldomo/open-in-mpv) - Simple web extension to open videos in mpv
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - Job-focused list of product companies using Go, Rust, Scala, Elixir and other languages in production. No outsourcing, no agencies.
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
@@ -1064,6 +1085,10 @@
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
+
+## haskell 
+
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - Job-focused list of product companies using Go, Rust, Scala, Elixir and other languages in production. No outsourcing, no agencies.
 
 ## home-assistant 
 
@@ -1581,7 +1606,6 @@
 - [harfbuzz/rustybuzz](https://github.com/harfbuzz/rustybuzz) - A complete harfbuzz's shaping algorithm port to Rust
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
-- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - A platform for simplifying job search
 - [iced-rs/comet](https://github.com/iced-rs/comet) - Your favorite tool for inspecting and debugging iced applications. Built with iced!
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.
@@ -1995,6 +2019,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [SUPERCILEX/fuc](https://github.com/SUPERCILEX/fuc) - Modern, performance focused unix commands
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - Job-focused list of product companies using Go, Rust, Scala, Elixir and other languages in production. No outsourcing, no agencies.
 - [nats-io/nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -2107,6 +2132,10 @@
 - [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Practice your rust skill hardly
 - [ash-rs/ash](https://github.com/ash-rs/ash) - Vulkan bindings for Rust
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
+
+## scala 
+
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - Job-focused list of product companies using Go, Rust, Scala, Elixir and other languages in production. No outsourcing, no agencies.
 
 ## scikit-learn 
 
@@ -2405,6 +2434,7 @@
 ## zig 
 
 - [vsergeev/zig-pebble-sdk](https://github.com/vsergeev/zig-pebble-sdk) - Zig build script and wrapper for the Pebble SDK
+- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - Job-focused list of product companies using Go, Rust, Scala, Elixir and other languages in production. No outsourcing, no agencies.
 
 ## zsh 
 
