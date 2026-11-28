@@ -8,7 +8,6 @@
 - [agent](#agent)
 - [agent-skills](#agent-skills)
 - [agentic-ai](#agentic-ai)
-- [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
@@ -45,7 +44,6 @@
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [code-quality](#code-quality)
-- [code-review](#code-review)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -156,7 +154,6 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [numpy](#numpy)
-- [obsidian](#obsidian)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opengl](#opengl)
@@ -198,7 +195,6 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
-- [skills](#skills)
 - [software](#software)
 - [sql](#sql)
 - [sqlite](#sqlite)
@@ -266,10 +262,6 @@
 - [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - The most complete open-source, self-hosted Agentic Trading OS—AI research, Python strategies, factor discovery, backtesting, optimization, paper/live multi-asset execution, risk controls, monitoring, 
 - [maximveksler/awesome-serialization](https://github.com/maximveksler/awesome-serialization) - Curated list of data serialization formats — API, ML, Agentic AI, Big Data, Configuration, and beyond
-
-## agents 
-
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 ## ai 
 
@@ -546,7 +538,6 @@
 
 ## claude-code 
 
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 - [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view pro
 - [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
@@ -615,10 +606,6 @@
 ## code-quality 
 
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
-
-## code-review 
-
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 
 ## command-line 
 
@@ -727,7 +714,6 @@
 
 ## database 
 
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis, Files and Docker Volume
 - [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
@@ -795,6 +781,7 @@
 
 ## docker 
 
+- [tsaridas/stremio-docker](https://github.com/tsaridas/stremio-docker) - Docker files for easy stremio server and client. Images pushed to Dockerhub
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -1052,7 +1039,6 @@
 
 ## hacktoberfest 
 
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [linuxserver/docker-firefox](https://github.com/linuxserver/docker-firefox) - 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -1071,7 +1057,6 @@
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [matthiasbeyer/mdbook-svgbob2](https://github.com/matthiasbeyer/mdbook-svgbob2) - A preprocessor for mdbook to convert svgbob codeblocks into SVG using svgbob
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
@@ -1422,7 +1407,6 @@
 ## mysql 
 
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis, Files and Docker Volume
 - [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfi
 
@@ -1478,10 +1462,6 @@
 - [jseluis/artificial_intelligence_for_trading](https://github.com/jseluis/artificial_intelligence_for_trading) - Artificial Intelligence for Trading
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
-## obsidian 
-
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
-
 ## open-source 
 
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
@@ -1522,6 +1502,7 @@
 
 ## others 
 
+- [J0R6IT0/navidrome-lyrics-plugin](https://github.com/J0R6IT0/navidrome-lyrics-plugin) - A Navidrome plugin for fetching lyrics from various sources, aka nd-lyrics.
 - [calibrain/shelfmark](https://github.com/calibrain/shelfmark) - 
 - [DanFessler/trellis](https://github.com/DanFessler/trellis) - Fractal layouts for web apps: nest panels to any depth, zoom to the part you need, and keep every view alive.
 - [joshwcomeau/button-sounds](https://github.com/joshwcomeau/button-sounds) - 
@@ -1531,7 +1512,6 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc) - Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-preserving summaries using pure extraction and formatting.
 - [earendil-works/pi-claude-code](https://github.com/earendil-works/pi-claude-code) - A provider to access a Claude code subscription via code-code in pi
-- [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) - Prowlarr Indexers used by Cardigann
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
@@ -1996,7 +1976,6 @@
 
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [apalis-dev/apalis](https://github.com/apalis-dev/apalis) - Type-safe, extensible, and high-performance background processing library for Rust
@@ -2202,10 +2181,6 @@
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 
-## skills 
-
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
-
 ## software 
 
 - [itytophile/rab](https://github.com/itytophile/rab) - Rusty Armor Builds - Monster Hunter Rise Armor Set Creation Tool
@@ -2213,7 +2188,6 @@
 ## sql 
 
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A double entry ledger implementation in PostgreSQL
 - [kaspermarstal/plprql](https://github.com/kaspermarstal/plprql) - Use PRQL in PostgreSQL
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -2221,7 +2195,6 @@
 ## sqlite 
 
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
 - [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [apalis-dev/apalis](https://github.com/apalis-dev/apalis) - Type-safe, extensible, and high-performance background processing library for Rust
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems.
